@@ -37,7 +37,7 @@ van	O	O	O
 twee	O	O	O
 Javanen	O	O	O
 ,	O	O	O
-geboortig	O	O	O
+geboortig	I-event	O	O
 van	O	O	O
 Caliegawee	O	O	O
 ,	O	O	O
@@ -56,7 +56,7 @@ patra	O	O	O
 volgens	O	O	O
 haar	O	O	O
 beijde	O	O	O
-verhaal	I-event	I-event	O
+verhaal	O	I-event	O
 en	O	I-event	O
 opgave	O	I-event	O
 ,	O	O	O
@@ -79,7 +79,7 @@ onderhorig	O	O	O
 plaetsje	O	O	O
 van	O	O	O
 samarangh	O	O	O
-seggen	O	O	O
+seggen	I-event	O	O
 dat	O	O	O
 sij	O	O	O
 nu	O	O	O
@@ -91,7 +91,7 @@ van	O	O	O
 gem	O	O	O
 :	O	O	O
 haar	O	O	O
-geboorte	I-event	O	O
+geboorte	O	O	O
 plaets	O	O	O
 ,	O	O	O
 met	O	O	O
@@ -129,7 +129,7 @@ voorsz	O	O	O
 plaetse	O	O	O
 komende	I-event	I-event	I-event
 ,	O	O	O
-sig	I-event	O	O
+sig	O	O	O
 begeven	I-event	O	O
 hebben	I-event	O	O
 in	I-event	I-event	O
@@ -170,7 +170,7 @@ priackaes	O	O	O
 aangenomen	I-event	I-event	O
 ,	O	O	O
 en	O	O	O
-g'emploijeert	O	I-event	O
+g'emploijeert	I-event	I-event	O
 zijn	O	O	O
 ;	O	O	O
 tot	O	O	O
@@ -201,7 +201,7 @@ tot	O	O	O
 stuijvs	O	O	O
 daags	O	O	O
 ,	O	O	O
-gevende	O	I-event	I-event
+gevende	I-event	I-event	I-event
 het	O	O	O
 zelve	O	O	O
 gestadig	O	O	O
@@ -279,7 +279,7 @@ s	O	O	O
 ,	O	O	O
 dog	O	O	O
 inmiddens	O	O	O
-quame	O	O	O
+quame	I-event	O	O
 het	O	O	O
 te	O	O	O
 gebeuren	O	O	O
@@ -305,10 +305,10 @@ voor	O	O	O
 de	O	O	O
 Eerste	O	O	O
 mael	O	O	O
-aansprack	O	O	O
+aansprack	I-event	O	O
 ,	O	O	O
 en	O	O	O
-versogt	O	I-event	O
+versogt	I-event	I-event	O
 om	O	O	O
 met	O	O	O
 hem	O	O	O
@@ -318,7 +318,7 @@ mede	I-event	O	O
 gaan	I-event	I-event	O
 tot	O	O	O
 het	O	O	O
-doen	O	O	O
+doen	I-event	O	O
 ,	O	O	O
 en	O	O	O
 drijven	I-event	O	O
@@ -400,7 +400,7 @@ en	O	O	O
 aldaer	O	O	O
 twee	O	O	O
 dagen	O	O	O
-geweest	O	I-event	O
+geweest	I-event	I-event	O
 zijnde	O	I-event	O
 ;	O	O	O
 wierd	O	O	O
@@ -521,7 +521,7 @@ vreemde	O	O	O
 off	O	O	O
 andere	O	O	O
 menschen	O	O	O
-gesien	I-event	O	O
+gesien	O	O	O
 ,	O	O	O
 buijten	O	O	O
 haar	O	O	O
@@ -542,7 +542,7 @@ dewijlse	O	O	O
 seer	O	O	O
 bloedig	O	O	O
 moesten	O	I-event	O
-arbeijden	I-event	I-event	O
+arbeijden	O	I-event	O
 ,	O	O	O
 en	O	O	O
 geen	O	O	O

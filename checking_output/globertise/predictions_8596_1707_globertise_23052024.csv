@@ -54,7 +54,7 @@ over	O	O	O
 atchin	O	O	O
 hier	O	O	O
 ter	O	O	O
-rheede	I-event	O	O
+rheede	O	O	O
 arriveerde	I-event	I-event	O
 .	O	O	O
 —	O	O	O
@@ -104,7 +104,7 @@ over	O	O	O
 atchin	O	O	O
 herwaarts	O	O	O
 aan	I-event	O	O
-te	I-event	O	O
+te	O	O	O
 komen	I-event	I-event	I-event
 geseijld	I-event	I-event	O
 en	O	O	O
@@ -194,13 +194,13 @@ nae	O	O	O
 mijlen	O	O	O
 beoosten	O	O	O
 atchin	O	O	O
-gelegen	I-event	I-event	O
+gelegen	O	I-event	O
 ,	O	O	O
 door	O	O	O
 een	O	O	O
 frans	O	O	O
 scheepje	O	O	O
-gemonteerd	I-event	O	O
+gemonteerd	O	O	O
 met	O	O	O
 22	O	O	O
 :	O	O	O
@@ -221,7 +221,7 @@ sij	O	O	O
 voor	O	O	O
 '	O	O	O
 tselve	O	O	O
-bevreest	I-event	O	O
+bevreest	O	O	O
 ,	O	O	O
 mitsgad	O	O	O
 „	O	O	O
@@ -276,7 +276,7 @@ hare	O	O	O
 chialoup	O	O	O
 —	O	O	O
 aan	O	O	O
-boord	O	O	O
+boord	I-event	O	O
 gelegen	I-event	I-event	O
 ,	O	O	O
 daar	O	O	O
@@ -315,7 +315,7 @@ door	O	O	O
 de	O	O	O
 twee	O	O	O
 aldaar	O	O	O
-verblevene	O	I-event	O
+verblevene	I-event	I-event	O
 maats	O	O	O
 te	O	I-event	O
 verstaan	O	I-event	O
@@ -352,7 +352,7 @@ in	O	O	O
 het	O	O	O
 scheepje	O	O	O
 mogte	O	O	O
-verborgen	O	I-event	O
+verborgen	I-event	I-event	O
 sijn	O	O	O
 ,	O	O	O
 dog	O	O	O
@@ -525,7 +525,7 @@ was	O	O	O
 :)	O	O	O
 ende	O	O	O
 andere	O	O	O
-toebehoortigh	O	I-event	O
+toebehoortigh	I-event	I-event	O
 aan	O	O	O
 eener	O	O	O
 manuel	O	O	O
@@ -538,7 +538,7 @@ portonovo	O	O	O
 onder	O	O	O
 „	O	O	O
 wegen	O	O	O
-aangeromst	I-event	I-event	O
+aangeromst	O	I-event	O
 ,	O	O	O
 verovert	I-event	I-event	O
 en	O	O	O
@@ -546,13 +546,13 @@ al	O	O	O
 het	O	O	O
 daar	O	O	O
 op	O	O	O
-ge	I-event	I-event	O
+ge	O	I-event	O
 weest	I-event	I-event	O
 sijnde	O	O	O
 volk	O	O	O
 dood	I-event	I-event	I-event
 geslagen	I-event	I-event	O
-hadden	O	O	O
+hadden	I-event	O	O
 ,	O	O	O
 uytgeson	O	O	O
 „	O	O	O
@@ -593,7 +593,7 @@ chialoupen	O	O	O
 naar	O	O	O
 alles	O	O	O
 daar	O	O	O
-uijtgeligt	I-event	I-event	O
+uijtgeligt	O	I-event	O
 te	O	O	O
 hebben	O	O	O
 inde	O	O	O
@@ -624,7 +624,7 @@ daar	O	O	O
 als	O	O	O
 nachoda	O	I-event	O
 of	O	O	O
-hooft	O	I-event	O
+hooft	I-event	I-event	O
 op	O	O	O
 was	O	O	O
 seeker	O	O	O
@@ -656,7 +656,7 @@ aan	O	I-event	O
 land	I-event	I-event	O
 was	I-event	O	O
 ,	O	O	O
-aanboord	O	O	O
+aanboord	I-event	O	O
 geklampt	I-event	I-event	O
 ,	O	O	O
 en	O	O	O
@@ -686,14 +686,14 @@ goede	O	O	O
 buijt	O	O	O
 mede	I-event	I-event	O
 gesleept	I-event	I-event	O
-hadde	O	O	O
+hadde	I-event	O	O
 ,	O	O	O
 zijndevier	O	O	O
 der	O	O	O
 nog	O	O	O
 binnen	O	O	O
 boort	O	O	O
-wesende	O	I-event	O
+wesende	I-event	I-event	O
 chineesen	O	O	O
 op	O	O	O
 haar	O	O	O
@@ -721,7 +721,7 @@ nog	O	O	O
 niet	O	O	O
 swemmen	O	O	O
 aan	O	O	O
-dewal	I-event	O	O
+dewal	O	O	O
 gekomen	I-event	I-event	I-event
 ,	O	O	O
 die	O	O	O
@@ -729,7 +729,7 @@ die	O	O	O
 tselve	O	O	O
 ook	O	O	O
 hadden	O	O	O
-bekent	O	I-event	O
+bekent	I-event	I-event	O
 gemaackt	O	I-event	O
 ,	O	O	O
 dat	O	O	O
@@ -738,7 +738,7 @@ ook	O	O	O
 vervolgens	O	O	O
 nog	O	O	O
 een	O	O	O
-aanslag	O	I-event	O
+aanslag	I-event	I-event	O
 op	O	O	O
 twee	O	O	O
 maccassaarse	O	O	O
@@ -748,7 +748,7 @@ ter	O	O	O
 selver	O	O	O
 rheede	O	O	O
 leggende	I-event	I-event	O
-gemaackt	O	O	O
+gemaackt	I-event	O	O
 ;	O	O	O
 maar	O	O	O
 dat	O	O	O
@@ -762,7 +762,7 @@ soo	O	O	O
 veel	O	O	O
 mogelijk	O	O	O
 onder	O	O	O
-dewal	I-event	O	O
+dewal	O	O	O
 begeven	I-event	I-event	O
 ,	O	O	O
 en	O	O	O
@@ -796,12 +796,12 @@ dapper	O	O	O
 daar	O	O	O
 tegen	O	O	O
 teweer	O	I-event	O
-gestelt	O	I-event	O
+gestelt	I-event	I-event	O
 meerm	O	O	O
 :	O	O	O
 francen	O	O	O
 Couragieuselijk	O	O	O
-affgeslagen	O	I-event	O
+affgeslagen	I-event	I-event	O
 en	O	O	O
 met	O	O	O
 verlies	O	I-event	O
@@ -809,7 +809,7 @@ van	O	O	O
 5	O	O	O
 :	O	O	O
 Coppen	O	O	O
-dewijk	O	I-event	O
+dewijk	I-event	I-event	O
 doennemen	I-event	I-event	O
 hadden	O	O	O
 ,	O	O	O
@@ -877,7 +877,7 @@ gomes	O	O	O
 doorgelopen	I-event	I-event	O
 ,	O	O	O
 mitsgaders	O	O	O
-in	O	O	O
+in	I-event	O	O
 zee	I-event	O	O
 gesteeken	I-event	I-event	O
 zijn	O	O	O
@@ -885,7 +885,7 @@ zijn	O	O	O
 —	O	O	O
 de	O	O	O
 relateurs	O	O	O
-verclaarden	O	I-event	O
+verclaarden	I-event	I-event	O
 ook	O	O	O
 van	O	O	O
 alle	O	O	O
@@ -898,7 +898,7 @@ nog	O	O	O
 ter	O	O	O
 rheede	O	O	O
 atchin	O	O	O
-leggende	I-event	I-event	O
+leggende	O	I-event	O
 bij	O	O	O
 een	O	O	O
 brievje	O	O	O
@@ -932,7 +932,7 @@ wilde	O	O	O
 onder	I-event	I-event	O
 zeijllopen	I-event	I-event	O
 in	O	I-event	O
-handen	O	I-event	O
+handen	I-event	I-event	O
 gelaten	I-event	I-event	O
 hadden	O	O	O
 ,	O	O	O
@@ -941,7 +941,7 @@ haren	O	O	O
 commandant	O	O	O
 op	O	O	O
 trancquebara	O	O	O
-kennisse	I-event	I-event	O
+kennisse	O	I-event	O
 gegeven	I-event	I-event	O
 ,	O	O	O
 dog	O	O	O
@@ -967,7 +967,7 @@ bij	O	I-event	O
 off	O	I-event	O
 omtrend	O	I-event	O
 zij	O	I-event	O
-geweest	O	I-event	O
+geweest	I-event	I-event	O
 .	O	O	O
 —	O	O	O
 voorts	O	O	O
@@ -1014,7 +1014,7 @@ is	O	O	O
 aangekomen	I-event	I-event	O
 ,	O	O	O
 aldaar	O	O	O
-pres	O	I-event	O
+pres	I-event	I-event	O
 „	O	I-event	O
 t	O	I-event	O
 geweest	I-event	I-event	O
@@ -1071,8 +1071,8 @@ uijtvranckelijk	O	O	O
 in	O	O	O
 dese	O	O	O
 gewesten	O	O	O
-stonden	O	O	O
-te	I-event	O	O
+stonden	I-event	O	O
+te	O	O	O
 verschijnen	I-event	I-event	O
 ,	O	O	O
 alhoewel	O	O	O
@@ -1153,7 +1153,7 @@ op	O	O	O
 oedjong	O	O	O
 salang	O	O	O
 nog	O	O	O
-gesien	I-event	I-event	O
+gesien	O	I-event	O
 en	O	O	O
 gesproken	I-event	I-event	O
 hadde	O	O	O
@@ -1231,7 +1231,7 @@ willeboorts	O	O	O
 denwelken	O	O	O
 volgens	O	O	O
 desselfs	O	O	O
-verhaal	I-event	O	O
+verhaal	O	O	O
 de	O	O	O
 reijse	I-event	I-event	I-event
 van	O	O	O
@@ -1248,11 +1248,11 @@ stercke	O	O	O
 door	O	O	O
 blasende	O	O	O
 noordewinden	O	O	O
-genoodhkt	I-event	O	O
+genoodhkt	O	O	O
 geworden	O	O	O
 sannasserij	O	O	O
 aan	I-event	I-event	O
-te	I-event	I-event	O
+te	O	I-event	O
 gieren	I-event	I-event	O
 ,	O	O	O
 en	O	O	O
@@ -1308,7 +1308,7 @@ gesprooken	I-event	I-event	O
 ,	O	O	O
 maar	O	O	O
 ook	O	O	O
-gegeten	O	I-event	O
+gegeten	I-event	I-event	O
 en	O	O	O
 gedroncken	I-event	I-event	O
 ,	O	O	O
@@ -1323,13 +1323,13 @@ hadde	O	O	O
 dat	O	O	O
 in't	O	O	O
 korte	O	O	O
-dereijse	I-event	I-event	I-event
+dereijse	O	I-event	I-event
 nae	O	O	O
 derw	O	O	O
 bengale	O	O	O
 andermaal	O	O	O
 stond	O	O	O
-te	I-event	O	O
+te	O	O	O
 ondernemen	I-event	O	O
 .	O	O	O
 —	O	O	O

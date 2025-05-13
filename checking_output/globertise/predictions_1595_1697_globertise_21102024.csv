@@ -39,7 +39,7 @@ E	O	O	O
 =	O	O	O
 o	O	O	O
 dienaar	O	O	O
-groete	I-event	O	O
+groete	O	O	O
 mijn	O	O	O
 heer	O	O	O
 met	O	O	O
@@ -69,7 +69,7 @@ belooninge	O	O	O
 daar	O	O	O
 voor	O	O	O
 te	O	O	O
-genieten	I-event	I-event	O
+genieten	O	I-event	O
 ,	O	O	O
 zoo	O	O	O
 keere	I-event	O	O
@@ -94,7 +94,7 @@ aan	O	O	O
 mij	O	O	O
 beliefft	O	I-event	O
 te	O	O	O
-bethoonen	I-event	O	O
+bethoonen	O	O	O
 op	O	O	O
 dat	O	O	O
 ik	O	O	O
@@ -102,10 +102,10 @@ des	O	I-event	O
 ijveriger	O	I-event	O
 omtrent	O	O	O
 het	O	O	O
-waarnemen	O	I-event	O
+waarnemen	I-event	I-event	O
 van	O	O	O
 dien	O	O	O
-dienst	O	I-event	O
+dienst	I-event	I-event	O
 zoude	O	O	O
 wesen	O	O	O
 ,	O	O	O
@@ -147,7 +147,7 @@ mij	O	O	O
 derthien	O	O	O
 reijsen	O	O	O
 de	O	O	O
-Cost	I-event	O	O
+Cost	O	O	O
 te	O	O	O
 geven	I-event	I-event	I-event
 ,	O	O	O
@@ -190,7 +190,7 @@ hebben	O	O	O
 gegeven	I-event	I-event	O
 ,	O	O	O
 Connen	O	O	O
-voldoen	I-event	I-event	O
+voldoen	O	I-event	O
 ,	O	O	O
 waarmeede	O	O	O
 naar	O	O	O
@@ -247,7 +247,7 @@ dato	O	O	O
 Januarij	O	O	O
 1697	O	O	O
 .	O	O	O
-ontfangen	I-event	I-event	I-event
+ontfangen	O	I-event	I-event
 den	O	O	O
 20	O	O	O
 „	O	O	O
@@ -333,13 +333,13 @@ van	O	O	O
 manado	O	O	O
 ontfangen	I-event	I-event	I-event
 hebben	O	O	O
-jnhoudende	O	O	O
+jnhoudende	I-event	O	O
 dat	O	O	O
 de	O	O	O
 E	O	O	O
 :	O	O	O
 Compagnie	O	O	O
-versoekt	O	I-event	I-event
+versoekt	I-event	I-event	I-event
 spoedigh	O	O	O
 olie	O	O	O
 naar	O	O	O
@@ -363,7 +363,7 @@ ladingh	O	O	O
 niet	O	O	O
 vaardig	O	O	O
 en	O	O	O
-klaart	O	O	O
+klaart	I-event	O	O
 gemaakt	O	O	O
 moest	O	O	O
 werden	O	O	O
@@ -393,7 +393,7 @@ de	O	O	O
 E	O	O	O
 :	O	O	O
 Compagnie	O	O	O
-betaalt	O	I-event	O
+betaalt	I-event	I-event	O
 heefft	O	O	O
 ,	O	O	O
 vermits	O	O	O
@@ -407,7 +407,7 @@ Robbertus	O	O	O
 Padtbrugge	O	O	O
 ,	O	O	O
 zoodaenig	O	O	O
-veraccordeert	O	I-event	O
+veraccordeert	I-event	I-event	O
 is	O	O	O
 ,	O	O	O
 als	O	O	O
@@ -442,7 +442,7 @@ kan	O	O	O
 duijsent	O	O	O
 kannen	O	O	O
 meer	O	O	O
-verkoopen	O	I-event	I-event
+verkoopen	I-event	I-event	I-event
 ,	O	O	O
 bij	O	O	O
 aldien	O	O	O
@@ -454,7 +454,7 @@ genegen	O	O	O
 is	O	O	O
 meer	O	O	O
 te	O	O	O
-nemen	O	I-event	O
+nemen	I-event	I-event	O
 ,	O	O	O
 zoo	O	O	O
 kunt	O	O	O
@@ -466,7 +466,7 @@ de	O	O	O
 jonck	O	O	O
 daar	O	O	O
 van	O	O	O
-spreken	O	O	O
+spreken	I-event	O	O
 ,	O	O	O
 wegens	O	O	O
 het	O	O	O
@@ -512,14 +512,14 @@ en	O	O	O
 sijlieden	O	O	O
 om	O	O	O
 hun	O	O	O
-depart	I-event	I-event	I-event
+depart	O	I-event	I-event
 versoeken	I-event	I-event	I-event
 ,	O	O	O
 soo	O	O	O
 is	O	O	O
 —	O	O	O
 ons	O	O	O
-versoek	O	I-event	I-event
+versoek	I-event	I-event	I-event
 aan	O	O	O
 mijn	O	O	O
 heer	O	O	O
@@ -538,7 +538,7 @@ wij	O	O	O
 niet	O	O	O
 meer	O	O	O
 te	O	O	O
-schrijven	I-event	O	O
+schrijven	O	O	O
 ,	O	O	O
 dan	O	O	O
 Eenelijk	O	O	O
@@ -650,7 +650,7 @@ dato	O	O	O
 Januarij	O	O	O
 1697	O	O	O
 .	O	O	O
-ontfangen	I-event	I-event	I-event
+ontfangen	O	I-event	I-event
 den	O	O	O
 20„e	O	O	O
 daar	O	O	O
@@ -660,7 +660,7 @@ volgende	O	O	O
 —	O	O	O
 Desen	O	O	O
 brieff	O	O	O
-geschreven	I-event	I-event	O
+geschreven	O	I-event	O
 aan	O	O	O
 den	O	O	O
 agtbaren	O	O	O
@@ -677,7 +677,7 @@ sage	O	O	O
 ,	O	O	O
 die	O	O	O
 alle	O	O	O
-bestieringen	I-event	O	O
+bestieringen	O	O	O
 der	O	O	O
 E	O	O	O
 :	O	O	O
@@ -792,7 +792,7 @@ tot	O	O	O
 batavia	O	O	O
 hier	O	O	O
 van	O	O	O
-daan	O	O	O
+daan	I-event	O	O
 geligt	I-event	I-event	I-event
 werd	O	O	O
 .	O	O	O
@@ -820,10 +820,10 @@ Compagnies	O	O	O
 believen	O	O	O
 ,	O	O	O
 om	I-event	O	O
-te	O	O	O
+te	I-event	O	O
 zetten	I-event	O	O
 en	O	O	O
-wederom	O	O	O
+wederom	I-event	O	O
 te	I-event	O	O
 lichten	I-event	O	O
 ,	O	O	O
@@ -928,8 +928,8 @@ mijn	O	O	O
 heer	O	O	O
 En	O	O	O
 vriend	O	O	O
-bekent	O	O	O
-maake	I-event	O	O
+bekent	I-event	O	O
+maake	O	O	O
 ,	O	O	O
 dat	O	O	O
 ik	O	O	O
@@ -1015,7 +1015,7 @@ hadden	O	O	O
 waaren	O	O	O
 we	O	O	O
 van	O	O	O
-meeninge	I-event	O	O
+meeninge	O	O	O
 een	O	O	O
 vaartuijg	O	O	O
 naar	O	O	O
@@ -1029,7 +1029,7 @@ mijn	O	O	O
 heer	O	O	O
 het	O	O	O
 bovenstaande	O	O	O
-bekent	O	O	O
+bekent	I-event	O	O
 te	O	O	O
 maaken	O	O	O
 ,	O	O	O
@@ -1120,7 +1120,7 @@ sal	O	O	O
 ik	O	O	O
 jmand	O	O	O
 in	O	I-event	O
-plaatse	O	I-event	O
+plaatse	I-event	I-event	O
 van	O	I-event	O
 mij	O	O	O
 naar	O	O	O
@@ -1328,7 +1328,7 @@ en	O	O	O
 den	O	O	O
 jnbond	O	O	O
 wel	O	O	O
-verstaan	I-event	O	O
+verstaan	O	O	O
 ,	O	O	O
 zijnde	O	O	O
 ons	O	O	O
@@ -1379,7 +1379,7 @@ dier	O	O	O
 tijd	O	O	O
 de	O	O	O
 moissen	O	O	O
-verloopen	I-event	I-event	O
+verloopen	O	I-event	O
 was	O	O	O
 versoeke	O	I-event	I-event
 Excuijs	O	O	O
@@ -1420,7 +1420,7 @@ volgende	O	O	O
 ontfangen	I-event	I-event	I-event
 ,	O	O	O
 welckers	O	O	O
-jnhout	I-event	O	O
+jnhout	O	O	O
 was	O	O	O
 ,	O	O	O
 dat	O	O	O
@@ -1439,7 +1439,7 @@ datse	O	O	O
 olij	O	O	O
 naar	O	O	O
 ternaten	O	O	O
-zouden	I-event	O	O
+zouden	O	O	O
 senden	I-event	I-event	I-event
 ,	O	O	O
 om	O	O	O
@@ -1468,7 +1468,7 @@ selve	O	O	O
 aff	I-event	O	O
 te	O	O	O
 senden	I-event	I-event	I-event
-laaten	O	I-event	O
+laaten	I-event	I-event	O
 vervaardigen	I-event	I-event	O
 ,	O	O	O
 de	O	O	O
@@ -1480,7 +1480,7 @@ langh	O	O	O
 ter	O	O	O
 reede	O	O	O
 hebben	O	O	O
-gelegen	I-event	I-event	O
+gelegen	O	I-event	O
 ,	O	O	O
 om	O	O	O
 redenen	O	O	O
@@ -1528,12 +1528,12 @@ groot-vader	O	O	O
 den	O	O	O
 Coning	O	O	O
 boisan	O	O	O
-te	I-event	O	O
+te	O	O	O
 behoeken	I-event	I-event	O
 ,	O	O	O
 dog	O	O	O
 de	O	O	O
-soon	O	O	O
+soon	I-event	O	O
 van	O	O	O
 den	O	O	O
 kitjil	O	O	O
@@ -1561,7 +1561,7 @@ het	O	O	O
 selve	O	O	O
 niet	O	I-event	O
 willen	O	I-event	O
-toestaan	I-event	I-event	O
+toestaan	O	I-event	O
 ,	O	O	O
 om	O	O	O
 redenen	O	O	O
@@ -1577,12 +1577,12 @@ ten	O	O	O
 anderen	O	O	O
 ook	O	O	O
 hun	O	O	O
-geslagte	O	O	O
+geslagte	I-event	O	O
 met	O	O	O
 de	O	O	O
 onse	O	O	O
 niet	O	O	O
-over	I-event	O	O
+over	O	O	O
 Een	O	O	O
 komende	I-event	O	I-event
 ,	O	O	O
@@ -1618,7 +1618,7 @@ doen	O	O	O
 niet	O	O	O
 en	O	O	O
 wilt	O	O	O
-naelaten	I-event	I-event	O
+naelaten	O	I-event	O
 ;	O	O	O
 daar	O	O	O
 de	O	O	O
@@ -1646,7 +1646,7 @@ zulx	O	O	O
 weder	O	O	O
 aan	O	I-event	O
 te	O	I-event	O
-vangen	O	I-event	O
+vangen	I-event	I-event	O
 ,	O	O	O
 om	O	O	O
 welcke	O	O	O
@@ -1657,13 +1657,13 @@ affgesondene	O	O	I-event
 soo	O	O	O
 lange	O	O	O
 sijn	O	O	O
-agtergebleven	O	I-event	O
+agtergebleven	I-event	I-event	O
 ,	O	O	O
 zieteens	O	O	O
 mijn	O	O	O
 heer	O	O	O
 het	O	O	O
-gedoente	O	O	O
+gedoente	I-event	O	O
 van	O	O	O
 dese	O	O	O
 kitjil	O	O	O
@@ -1696,7 +1696,7 @@ mooren	O	O	O
 ,	O	O	O
 zoodaenigh	O	O	O
 laat	O	O	O
-gewerden	I-event	O	O
+gewerden	O	O	O
 ,	O	O	O
 soo	O	O	O
 sal	O	O	O
@@ -1799,7 +1799,7 @@ religie	O	O	O
 en	O	O	O
 den	O	O	O
 adel	O	O	O
-quaad	I-event	I-event	O
+quaad	O	I-event	O
 te	O	I-event	O
 doen	O	I-event	O
 ,	O	O	O
@@ -1950,7 +1950,7 @@ in	O	O	O
 de	O	O	O
 stadt	O	O	O
 Ternaten	O	O	O
-Regeert	I-event	I-event	O
+Regeert	O	I-event	O
 .	O	O	O
 Jck	O	O	O
 uw	O	O	O
@@ -1996,7 +1996,7 @@ vaartuijgen	O	O	O
 weder	O	O	O
 herwaarts	O	I-event	O
 believe	O	O	O
-te	O	O	O
+te	I-event	O	O
 licentieren	I-event	O	O
 ,	O	O	O
 alsoo	O	O	O
@@ -2005,8 +2005,8 @@ daar	O	O	O
 meede	O	O	O
 op	O	O	O
 ternaten	O	O	O
-meende	I-event	O	O
-te	I-event	O	O
+meende	O	O	O
+te	O	O	O
 Comen	I-event	I-event	O
 jk	O	O	O
 uw	O	O	O
@@ -2102,7 +2102,7 @@ maart	O	O	O
 1697	O	O	O
 .	O	O	O
 Desen	O	O	O
-brieff	I-event	O	O
+brieff	O	O	O
 van	O	O	O
 uE	O	O	O
 :	O	O	O
@@ -2158,7 +2158,7 @@ heere	O	O	O
 verleene	O	I-event	I-event
 hun	O	O	O
 langh	O	O	O
-leven	I-event	O	O
+leven	O	O	O
 en	O	O	O
 welvaren	O	O	O
 amen	O	O	O
@@ -2176,7 +2176,7 @@ was	I-event	I-event	O
 heefft	O	O	O
 hij	O	O	O
 te	O	O	O
-kennen	O	O	O
+kennen	I-event	O	O
 gegeven	I-event	O	O
 ,	O	O	O
 dat	O	O	O
@@ -2189,7 +2189,7 @@ genaamt	O	O	O
 Besie	O	O	O
 op	O	O	O
 Batchian	O	O	O
-is	O	O	O
+is	I-event	O	O
 gecomen	I-event	I-event	I-event
 ,	O	O	O
 welcke	O	O	O
@@ -2238,7 +2238,7 @@ en	O	O	O
 nu	O	O	O
 —	O	O	O
 hij	O	O	O
-vertreckt	O	I-event	O
+vertreckt	I-event	I-event	O
 ,	O	O	O
 maake	O	O	O
 zulx	O	O	O
@@ -2286,7 +2286,7 @@ maart	O	O	O
 1697	O	O	O
 .	O	O	O
 Dese	O	O	O
-brieff	I-event	O	O
+brieff	O	O	O
 van	O	O	O
 uw	O	O	O
 E	O	O	O
@@ -2447,7 +2447,7 @@ Salomon	O	O	O
 le	O	O	O
 sage	O	O	O
 geschreven	O	O	O
-ontfangen	I-event	I-event	I-event
+ontfangen	O	I-event	I-event
 tot	O	O	O
 Ternaten	O	O	O
 den	O	O	O
@@ -2459,7 +2459,7 @@ o	O	O	O
 1697	O	O	O
 .	O	O	O
 Desen	O	O	O
-brieff	I-event	O	O
+brieff	O	O	O
 van	O	O	O
 uw	O	O	O
 E	O	O	O
@@ -2481,7 +2481,7 @@ uijt	O	O	O
 een	O	O	O
 weemoedig	O	O	O
 ,	O	O	O
-bedroefft	O	O	O
+bedroefft	I-event	O	O
 en	O	O	O
 genegene	O	O	O
 herte	O	O	O
@@ -2500,14 +2500,14 @@ wil	O	O	O
 gunnen	O	I-event	O
 Een	O	O	O
 lang	O	O	O
-leven	I-event	O	O
+leven	O	O	O
 en	O	O	O
 gesontheijt	O	O	O
 amen	O	O	O
 .	O	O	O
 —	O	O	O
 wijders	O	O	O
-maakt	I-event	O	O
+maakt	O	O	O
 u	O	O	O
 E	O	O	O
 :	O	O	O
@@ -2556,13 +2556,13 @@ ontfangen	I-event	I-event	I-event
 ,	O	O	O
 van	O	O	O
 welckers	O	O	O
-jnhout	I-event	O	O
+jnhout	O	O	O
 uw	O	O	O
 E	O	O	O
 :	O	O	O
 zoon	O	O	O
 seer	O	O	O
-verstelt	O	I-event	O
+verstelt	I-event	I-event	O
 was	O	O	O
 ,	O	O	O
 over	O	O	O
@@ -2603,7 +2603,7 @@ afflaten	O	O	O
 zoo	O	O	O
 lange	O	O	O
 hij	O	O	O
-leefft	O	O	O
+leefft	I-event	O	O
 ,	O	O	O
 bij	O	O	O
 dag	O	O	O

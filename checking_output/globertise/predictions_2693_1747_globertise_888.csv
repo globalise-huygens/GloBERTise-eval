@@ -100,13 +100,13 @@ zijn	O	I-event	O
 ten	O	O	O
 eijgen	O	O	O
 Coste	O	O	O
-onderhoud	O	O	O
+onderhoud	I-event	O	O
 heb	O	O	O
 gegeven	I-event	I-event	O
 ,	O	O	O
 en	O	O	O
 haar	O	O	O
-woon	I-event	O	O
+woon	O	O	O
 met	O	O	O
 linnen	O	O	O
 doen	O	O	O
@@ -125,7 +125,7 @@ zij	O	O	O
 geen	O	O	O
 reden	O	O	O
 van	O	O	O
-klagen	I-event	O	O
+klagen	O	O	O
 tot	O	O	O
 nog	O	O	O
 toe	O	O	O
@@ -151,7 +151,7 @@ toe	O	O	O
 geen	O	O	O
 hofs	O	O	O
 grooten	O	O	O
-opgedaan	I-event	I-event	O
+opgedaan	O	I-event	O
 ,	O	O	O
 al	O	O	O
 hoewel	O	O	O
@@ -171,7 +171,7 @@ dato	O	O	O
 ,	O	O	O
 tot	O	O	O
 nader	O	O	O
-ordre	I-event	O	I-event
+ordre	O	O	I-event
 van	O	O	O
 uwel	O	O	O
 Edele	O	O	O

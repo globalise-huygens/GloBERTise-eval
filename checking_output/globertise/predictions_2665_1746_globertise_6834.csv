@@ -70,7 +70,7 @@ uw	O	O	O
 Edle	O	O	O
 Hoog	O	O	O
 gezag	O	I-event	O
-staat	O	I-event	O
+staat	I-event	I-event	O
 ,	O	O	O
 zo	O	O	O
 heeft	O	O	O
@@ -111,7 +111,7 @@ zijn	O	O	O
 Edele	O	O	O
 mogen	O	O	O
 terug	I-event	I-event	O
-worden	O	I-event	O
+worden	I-event	I-event	O
 gesonden	I-event	I-event	I-event
 ,	O	O	O
 waar	O	O	O
@@ -161,7 +161,7 @@ majesteits	O	O	O
 bij	O	O	O
 uitnementheid	O	O	O
 getrouw	O	O	O
-dient	O	O	O
+dient	I-event	O	O
 en	O	O	O
 het	O	O	O
 mede	O	O	O

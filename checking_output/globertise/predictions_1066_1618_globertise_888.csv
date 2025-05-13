@@ -77,7 +77,7 @@ aldaer	O	O	O
 drie	O	O	O
 daghen	O	O	O
 bij	O	O	O
-te	I-event	O	O
+te	O	O	O
 houden	I-event	O	O
 is	O	O	O
 ons	O	O	O
@@ -89,7 +89,7 @@ den	O	O	O
 schralen	O	O	O
 wint	O	O	O
 belet	O	I-event	O
-geweeest	I-event	O	O
+geweeest	O	O	O
 alsoo	O	O	O
 wij	O	O	O
 groot	O	O	O
@@ -136,7 +136,7 @@ deen	O	O	O
 november	O	O	O
 sijn	O	O	O
 wij	O	O	O
-gepasseert	I-event	I-event	O
+gepasseert	O	I-event	O
 het	O	O	O
 Eijlant	O	O	O
 palma	O	O	O
@@ -178,7 +178,7 @@ ander	O	O	O
 Esels	O	O	O
 hooft	O	O	O
 hebben	O	O	O
-toe	O	I-event	O
+toe	I-event	I-event	O
 gestelt	I-event	I-event	O
 ende	O	O	O
 ons	O	O	O
@@ -200,10 +200,10 @@ ons	O	O	O
 meninchte	O	O	O
 van	O	O	O
 bocken	O	O	O
-geschoncken	O	I-event	O
+geschoncken	I-event	I-event	O
 oock	O	O	O
 andren	O	O	O
-vernersinge	O	O	O
+vernersinge	I-event	O	O
 ende	O	O	O
 is	O	O	O
 aen	O	O	O
@@ -253,7 +253,7 @@ het	O	O	O
 most	O	O	O
 den	O	O	O
 Dolphin	O	O	O
-geweest	O	O	O
+geweest	I-event	O	O
 sijn	O	O	O
 alhier	O	O	O
 hebben	O	O	O
@@ -270,7 +270,7 @@ E.	O	O	O
 Heere	O	O	O
 Bewinthebberen	O	O	O
 te	O	O	O
-bestellen	I-event	I-event	O
+bestellen	O	I-event	O
 met	O	O	O
 de	O	O	O
 Eerste	O	O	O
@@ -522,8 +522,8 @@ tijt	O	O	O
 hebben	O	O	O
 wij	O	O	O
 geen	O	O	O
-vernersinge	O	O	O
-becomen	I-event	I-event	I-event
+vernersinge	I-event	O	O
+becomen	O	I-event	I-event
 alsoo	O	O	O
 dinwoonders	O	O	O
 lantwaerts	O	O	O
@@ -554,7 +554,7 @@ eersten	O	O	O
 peden	O	O	O
 wint	O	O	O
 te	O	O	O
-vernorderen	O	I-event	O
+vernorderen	I-event	I-event	O
 naer	O	O	O
 de	O	O	O
 Cust	O	O	O
@@ -593,7 +593,7 @@ eer	O	O	O
 en	O	O	O
 syn	O	O	O
 gewaer	O	O	O
-geworden	O	O	O
+geworden	I-event	O	O
 als	O	O	O
 naer	O	O	O
 der	O	O	O

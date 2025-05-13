@@ -31,7 +31,7 @@ van	O	O	O
 Nederlants	O	O	O
 India	O	O	O
 .	O	O	O
-Ontfangen	O	I-event	O
+Ontfangen	I-event	I-event	O
 pr	O	I-event	O
 de	O	O	O
 pantjallang	O	O	O
@@ -89,7 +89,7 @@ gantschen	O	O	O
 sleep	O	O	O
 benevens	O	O	O
 den	O	O	O
-geapprehendeerden	O	I-event	O
+geapprehendeerden	I-event	I-event	O
 anachoda	O	O	O
 Martanaja	O	O	O
 ,	O	O	O
@@ -110,7 +110,7 @@ den	O	O	O
 Incoop	I-event	I-event	O
 van	O	O	O
 paarden	O	O	O
-genoten	O	O	O
+genoten	I-event	O	O
 400	O	O	O
 .	O	O	O
 sp	O	O	O
@@ -131,7 +131,7 @@ die	O	O	O
 hier	O	O	O
 dus	O	O	O
 lang	O	O	O
-gecontinueert	I-event	I-event	O
+gecontinueert	O	I-event	O
 ,	O	O	O
 hebben	O	O	O
 om	O	O	O
@@ -193,7 +193,7 @@ geweest	I-event	I-event	O
 alwaerse	O	O	O
 '	O	O	O
 tschip	O	O	O
-gekielt	O	I-event	O
+gekielt	I-event	I-event	O
 ,	O	O	O
 schoon	O	I-event	O
 gemaect	O	I-event	O
@@ -214,7 +214,7 @@ Chineese	O	O	O
 Ioncken	O	O	O
 bij	O	O	O
 haer	O	O	O
-ten	O	O	O
+ten	I-event	O	O
 ancker	I-event	I-event	I-event
 gelegen	I-event	O	O
 hebben	O	O	O
@@ -296,7 +296,7 @@ gestalte	O	O	O
 der	O	O	O
 eijlanden	O	O	O
 ,	O	O	O
-anckergronden	I-event	O	O
+anckergronden	O	O	O
 ,	O	O	O
 Harenen	O	O	O
 ,	O	O	O
@@ -338,7 +338,7 @@ beselschap	I-event	O	O
 gedient	I-event	I-event	O
 Heeft	O	I-event	O
 ,	O	O	O
-gehoort	I-event	O	O
+gehoort	O	O	O
 te	O	O	O
 hebben	O	O	O
 ,	O	O	O
@@ -350,7 +350,7 @@ sulcke	O	O	O
 Mannen	O	O	O
 bij	O	I-event	O
 hem	O	I-event	O
-hadde	I-event	I-event	O
+hadde	O	I-event	O
 als	O	O	O
 gemelte	O	O	O
 soldaet	O	O	O
@@ -364,7 +364,7 @@ rd	O	O	O
 .	O	O	O
 s	O	O	O
 Woude	O	O	O
-versekeren	O	I-event	O
+versekeren	I-event	I-event	O
 Jaerlijx	O	O	O
 ,	O	O	O
 dies	O	O	O
@@ -439,7 +439,7 @@ vinden	O	O	O
 zullen	O	O	O
 wesen	O	O	O
 ,	O	O	O
-gexpliceert	I-event	O	O
+gexpliceert	O	O	O
 zien	O	O	O
 ,	O	O	O
 want	O	O	O
@@ -459,7 +459,7 @@ de	O	O	O
 drie	O	O	O
 broeders	O	O	O
 door	O	O	O
-Interventie	O	O	O
+Interventie	I-event	O	O
 van	O	O	O
 welgemelte	O	O	O
 Heer	O	O	O
@@ -481,7 +481,7 @@ passado	O	O	O
 met	O	I-event	O
 hunne	O	I-event	O
 zegels	O	I-event	O
-bekragtigt	O	I-event	O
+bekragtigt	I-event	I-event	O
 Hebben	O	I-event	O
 ,	O	O	O
 waervan	O	O	O
@@ -528,7 +528,7 @@ op	O	O	O
 zeeker	O	O	O
 tijd	O	O	O
 voorde	O	O	O
-voeten	O	O	O
+voeten	I-event	O	O
 vande	O	O	O
 heer	O	O	O
 Commiss	O	O	O
@@ -567,7 +567,7 @@ gefondeerde	O	O	O
 redenen	O	O	O
 met	O	O	O
 minsaamheijt	O	O	O
-overtuijgt	O	O	O
+overtuijgt	I-event	O	O
 wesende	O	O	O
 ,	O	O	O
 zig	O	O	O
@@ -575,7 +575,7 @@ eijndelik	O	O	O
 tot	O	O	O
 die	O	O	O
 droevige	O	O	O
-togt	I-event	I-event	I-event
+togt	O	I-event	I-event
 laten	I-event	O	O
 vinden	I-event	O	O
 heeft	O	O	O
@@ -595,7 +595,7 @@ dese	O	O	O
 vreemde	O	O	O
 gedagten	O	O	O
 en	O	O	O
-Pretentien	O	O	O
+Pretentien	I-event	O	O
 zal	O	O	O
 vergadert	O	O	O
 hebben	O	O	O
@@ -607,14 +607,14 @@ hier	O	O	O
 wel	O	O	O
 wederom	O	O	O
 zullen	O	O	O
-verdwijnen	I-event	O	O
+verdwijnen	O	O	O
 ,	O	O	O
 gemelte	O	O	O
 sulthan	O	O	O
 annom	O	O	O
 heeft	O	O	O
 ons	O	O	O
-bekent	O	I-event	O
+bekent	I-event	I-event	O
 gemaect	O	I-event	O
 ,	O	O	O
 dat	O	O	O
@@ -630,7 +630,7 @@ paccalongan	O	O	O
 en	O	O	O
 Mabehoer	O	O	O
 hebben	O	O	O
-soeken	O	I-event	O
+soeken	I-event	I-event	O
 te	O	I-event	O
 salveren	I-event	I-event	O
 ,	O	O	O
@@ -641,13 +641,13 @@ vaartuijgen	O	O	O
 die	O	O	O
 door't	O	O	O
 Hardeweer	O	O	O
-na	I-event	O	O
+na	O	O	O
 en	O	O	O
 van	O	O	O
 samarang	O	O	O
 schadeloos	I-event	I-event	O
 geraact	I-event	I-event	O
-waren	I-event	O	O
+waren	O	O	O
 ,	O	O	O
 en	O	O	O
 door	O	O	O
@@ -692,7 +692,7 @@ vaertuijg	O	O	O
 tegens	O	O	O
 zijn	O	O	O
 volk	O	O	O
-gesegt	O	I-event	O
+gesegt	I-event	I-event	O
 ,	O	O	O
 Uw	O	O	O
 Heer	O	O	O
@@ -717,7 +717,7 @@ des	O	O	O
 sousou	O	O	O
 hounang	O	O	O
 te	O	O	O
-spreecken	I-event	I-event	I-event
+spreecken	O	I-event	I-event
 stilletjes	O	O	O
 —	O	O	O
 Wederom	O	O	O
@@ -731,7 +731,7 @@ w	O	O	O
 '	O	O	O
 uw	O	I-event	O
 roer	O	I-event	O
-Wegnemen	I-event	I-event	O
+Wegnemen	O	I-event	O
 ;	O	O	O
 dese	O	O	O
 klagten	O	O	O
@@ -745,7 +745,7 @@ souson	O	O	O
 hounang	O	O	O
 hebben	O	O	O
 wij	O	O	O
-verzogt	O	I-event	I-event
+verzogt	I-event	I-event	I-event
 ,	O	O	O
 dat	O	O	O
 zoodanig	O	O	O
@@ -754,7 +754,7 @@ uwer	O	O	O
 Ed	O	O	O
 :	O	O	O
 mogte	O	O	O
-ges	O	O	O
+ges	I-event	O	O
 .	O	O	O
 Werden	O	O	O
 gelijk	O	O	O
@@ -779,13 +779,13 @@ hij	O	O	O
 heeft	O	O	O
 ons	O	O	O
 oog	O	O	O
-verzogt	O	I-event	I-event
+verzogt	I-event	I-event	I-event
 bij	O	O	O
 uwer	O	O	O
 Ed.	O	O	O
 te	O	O	O
 willen	O	O	O
-aanhouden	O	I-event	O
+aanhouden	I-event	I-event	O
 dat	O	O	O
 sijn	O	O	O
 suster	O	I-event	O
@@ -800,7 +800,7 @@ herwaerts	O	O	O
 aan	I-event	O	O
 mogte	O	O	O
 vervoert	I-event	I-event	I-event
-werden	O	O	O
+werden	I-event	O	O
 ,	O	O	O
 off	O	O	O
 dit	O	O	O
@@ -831,7 +831,7 @@ nog	O	O	O
 toe	O	O	O
 van	O	O	O
 geen	O	O	O
-oorlog	O	I-event	I-event
+oorlog	I-event	I-event	I-event
 te	O	O	O
 weten	O	O	O
 ,	O	O	O
@@ -848,7 +848,7 @@ alomme	O	O	O
 van	O	O	O
 ons	O	O	O
 verschoont	I-event	I-event	O
-wierden	O	O	O
+wierden	I-event	O	O
 ,	O	O	O
 Indien	O	O	O
 Hij	O	O	O
@@ -877,7 +877,7 @@ ijmant	O	O	O
 Connen	O	O	O
 bespeuren	O	O	O
 oog	O	O	O
-leven	I-event	O	O
+leven	O	O	O
 de	O	O	O
 broeders	O	O	O
 vreedsaam	O	I-event	O
@@ -956,7 +956,7 @@ gedient	O	I-event	O
 ,	O	O	O
 dat	O	O	O
 ten	O	O	O
-Huijse	I-event	O	O
+Huijse	O	O	O
 vanden	O	O	O
 vrijburger	O	O	O
 Iacob	O	O	O
@@ -987,7 +987,7 @@ in	O	O	O
 dat	O	O	O
 huijs	O	O	O
 te	O	I-event	O
-vinden	I-event	I-event	O
+vinden	O	I-event	O
 zoude	O	O	O
 wesen	O	O	O
 ;	O	O	O
@@ -999,7 +999,7 @@ met	O	O	O
 een	O	O	O
 adsistent	O	O	O
 derwaarts	O	O	O
-gecommitt	O	I-event	O
+gecommitt	I-event	I-event	O
 .	O	I-event	O
 t	O	I-event	O
 die	O	O	O
@@ -1028,7 +1028,7 @@ Naderhant	O	O	O
 sijn	O	O	O
 uijt	O	O	O
 het	O	O	O
-huijs	I-event	O	O
+huijs	O	O	O
 vanden	O	O	O
 Chinees	O	O	O
 tsienko	O	O	O
@@ -1038,7 +1038,7 @@ gehaelt	I-event	I-event	O
 en	O	O	O
 uijt	O	O	O
 het	O	O	O
-vaertuijg	I-event	O	O
+vaertuijg	O	O	O
 van	O	O	O
 gemelte	O	O	O
 Hollart	O	O	O
@@ -1164,7 +1164,7 @@ alle	O	O	O
 de	O	O	O
 mardijkers	O	O	O
 voorgeven	O	O	O
-geweest	O	O	O
+geweest	I-event	O	O
 te	O	O	O
 zijn	O	O	O
 ,	O	O	O
@@ -1242,7 +1242,7 @@ Hendriks	O	O	O
 .	O	O	O
 mede	O	O	O
 dop	O	I-event	O
-over	I-event	I-event	O
+over	O	I-event	O
 is	O	I-event	O
 gegaen	I-event	I-event	O
 ;	O	O	O
@@ -1324,12 +1324,12 @@ stx	O	O	O
 Javaense	O	O	O
 zortering	O	O	O
 kleden	O	O	O
-in	O	O	O
+in	I-event	O	O
 arrest	I-event	I-event	O
 gehad	I-event	O	O
 die	O	O	O
 zonder	O	O	O
-pas	I-event	O	O
+pas	O	O	O
 van	O	O	O
 samarang	O	O	O
 waren	O	O	O
@@ -1379,7 +1379,7 @@ aande	O	O	O
 stuijckerije	O	O	O
 selfs	O	O	O
 te	O	O	O
-participeeren	I-event	I-event	O
+participeeren	O	I-event	O
 ,	O	O	O
 want	O	O	O
 hoesout	O	O	O
@@ -1397,7 +1397,7 @@ zijn	O	O	O
 dies	O	O	O
 wij	O	O	O
 sonder	O	O	O
-negotie	I-event	I-event	O
+negotie	O	I-event	O
 tot	O	O	O
 sware	O	O	O
 Lasten	O	O	O
@@ -1518,7 +1518,7 @@ zijde	O	O	O
 met	O	O	O
 de	O	O	O
 poort	O	O	O
-voltrecken	O	O	O
+voltrecken	I-event	O	O
 ,	O	O	O
 staetmakende	O	O	O
 dat	O	O	O
@@ -1549,7 +1549,7 @@ fundamenten	O	O	O
 vande	O	O	O
 vierpuncten	O	O	O
 zullen	O	O	O
-breetwesen	I-event	O	O
+breetwesen	O	O	O
 9	O	O	O
 .	O	O	O
 voeten	O	O	O
@@ -1632,7 +1632,7 @@ langs	O	O	O
 de	O	O	O
 Cortinnen	O	O	O
 ,	O	O	O
-kosten	I-event	O	O
+kosten	O	O	O
 zal	O	O	O
 32	O	O	O
 en	O	O	O
@@ -1693,7 +1693,7 @@ uEd	O	O	O
 :	O	O	O
 gedepescheert	I-event	I-event	O
 te	O	O	O
-hebben	I-event	O	O
+hebben	O	O	O
 met	O	O	O
 sulcken	O	O	O
 geleijd	O	O	O
@@ -1724,19 +1724,19 @@ van	O	O	O
 desselfs	O	O	O
 vertrek	I-event	I-event	I-event
 niet	O	O	O
-gaadverteert	I-event	I-event	O
+gaadverteert	O	I-event	O
 zijn	O	O	O
 ,	O	O	O
 en	O	O	O
 hij	O	O	O
 Luijtenant	O	O	O
 wel	O	O	O
-gedreijgt	I-event	O	O
+gedreijgt	O	O	O
 heeft	O	O	O
 sig	O	O	O
 selven	O	O	O
 te	O	O	O
-willen	O	O	O
+willen	I-event	O	O
 Lossen	I-event	I-event	O
 ,	O	O	O
 gelijk	O	O	O
@@ -1784,7 +1784,7 @@ abrahams	O	O	O
 .	O	O	O
 pittavin	O	O	O
 heeft	O	O	O
-verzogt	O	I-event	I-event
+verzogt	I-event	I-event	I-event
 dat	O	O	O
 dese	O	O	O
 bijlagens	O	O	O
@@ -1845,7 +1845,7 @@ het	O	O	O
 op	O	O	O
 sijn	O	O	O
 perzoon	O	O	O
-gemunt	O	O	O
+gemunt	I-event	O	O
 Is	O	O	O
 .	O	O	O
 Werden	O	O	O
@@ -1861,7 +1861,7 @@ zij	O	O	O
 ,	O	O	O
 heeft	O	O	O
 Insgelijx	O	O	O
-verzogt	O	I-event	I-event
+verzogt	I-event	I-event	I-event
 dat	O	O	O
 zijn	O	O	O
 requesl	O	I-event	O
@@ -2000,7 +2000,7 @@ van	O	O	O
 schip	O	O	O
 Cronenburg	O	O	O
 waerin	O	O	O
-afgescheept	I-event	O	O
+afgescheept	O	O	O
 en	O	O	O
 uwer	O	O	O
 Ed	O	O	O

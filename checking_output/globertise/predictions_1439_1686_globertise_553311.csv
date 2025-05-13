@@ -70,7 +70,7 @@ engels	O	O	O
 France	O	O	O
 en	O	O	O
 Hollanders	O	O	O
-genand	O	O	O
+genand	I-event	O	O
 ,	O	O	O
 terwijl	O	O	O
 de	O	O	O
@@ -118,7 +118,7 @@ den	O	O	O
 '	O	O	O
 Julij	O	O	O
 in	O	O	O
-geselschap	I-event	O	O
+geselschap	O	O	O
 vand	O	O	O
 '	O	O	O
 bluijt	O	O	O
@@ -177,14 +177,14 @@ Command	O	O	O
 r	O	O	O
 in	O	O	O
 rade	O	O	O
-verslag	O	I-event	I-event
+verslag	I-event	I-event	I-event
 ,	O	I-event	O
 gedaan	O	I-event	O
 der	O	O	O
-sijd	O	O	O
-gange	O	O	O
+sijd	I-event	O	O
+gange	I-event	O	O
 en	O	O	O
-uitsporigheden	O	O	O
+uitsporigheden	I-event	O	O
 ,	O	O	O
 gedurende	O	O	O
 desselfs	O	O	O
@@ -208,7 +208,7 @@ des	O	O	O
 ontsaegs	O	O	O
 sijner	O	O	O
 gesaghebberen	O	O	O
-gepleegt	O	O	O
+gepleegt	I-event	O	O
 ;	O	O	O
 dierhalven	O	O	O
 hebben	O	O	O
@@ -230,7 +230,7 @@ gemagtigd	O	I-event	O
 hem	O	O	O
 op	O	O	O
 't	O	O	O
-begaan	O	O	O
+begaan	I-event	O	O
 van	O	O	O
 nieuw	O	O	O
 van	O	O	O
@@ -248,7 +248,7 @@ ontslaan	I-event	I-event	O
 doende	O	O	O
 in	O	I-event	O
 deselfs	O	I-event	O
-plaatsop	O	I-event	O
+plaatsop	I-event	I-event	O
 treden	I-event	I-event	O
 den	O	O	O
 persoon	O	O	O
@@ -345,7 +345,7 @@ selve	O	O	O
 met	O	O	O
 d	O	O	O
 '	O	O	O
-aangebragte	I-event	I-event	O
+aangebragte	O	I-event	O
 slaven	O	O	O
 Hier	O	O	O
 vandaan	O	O	O
@@ -377,5 +377,5 @@ deselve	O	O	O
 Adroictire	O	O	O
 op	O	O	O
 Sumatra	O	O	O
-vlosen	I-event	I-event	O
+vlosen	O	I-event	O
 .	O	O	O

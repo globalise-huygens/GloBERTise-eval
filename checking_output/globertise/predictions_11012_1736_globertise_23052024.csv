@@ -63,12 +63,12 @@ thans	O	O	O
 Heeren	O	O	O
 gevangen	O	I-event	I-event
 en	O	O	O
-gedaaaden	I-event	O	O
+gedaaaden	O	O	O
 in	O	O	O
 Cas	O	O	O
 van	O	O	O
 gepleegde	O	O	O
-diefte	I-event	I-event	I-event
+diefte	O	I-event	I-event
 met	O	O	O
 gewelt	O	I-event	I-event
 ,	O	O	O
@@ -140,7 +140,7 @@ Eijscher	O	O	O
 mede	O	O	O
 gevankelijk	O	O	O
 was	O	O	O
-toegesonden	I-event	I-event	I-event
+toegesonden	O	I-event	I-event
 al	O	O	O
 een	O	O	O
 complice	O	I-event	O
@@ -207,7 +207,7 @@ klaa	O	O	O
 gebleeken	O	O	O
 bij	O	O	O
 de	O	O	O
-visitatie	I-event	I-event	O
+visitatie	O	I-event	O
 ,	O	O	O
 dewelke	O	O	O
 den	O	O	O
@@ -226,7 +226,7 @@ van	O	O	O
 gemelde	O	O	O
 soldaat	O	O	O
 heeft	O	O	O
-g	O	O	O
+g	I-event	O	O
 daen	O	O	O
 ,	O	O	O
 alwaer	O	O	O
@@ -330,8 +330,8 @@ attestant	O	O	O
 in	O	O	O
 dese	O	O	O
 allenig	O	O	O
-thuijs	I-event	I-event	O
-was	I-event	I-event	O
+thuijs	O	I-event	O
+was	O	I-event	O
 :)	O	O	O
 Een	O	O	O
 stoel	O	O	O
@@ -408,8 +408,8 @@ aldaer	O	O	O
 staende	O	I-event	O
 Lessenaer	O	O	O
 heeft	O	O	O
-op	O	I-event	O
-engebrooken	O	I-event	O
+op	I-event	I-event	O
+engebrooken	I-event	I-event	O
 ,	O	O	O
 waer	O	O	O
 inne	O	O	O
@@ -619,14 +619,14 @@ achtb	O	O	O
 re	O	O	O
 des	O	O	O
 gevangens	O	I-event	I-event
-misdaed	I-event	O	O
+misdaed	O	O	O
 en	O	O	O
 diefstal	O	I-event	I-event
 met	O	O	O
 gestelt	O	O	O
 en	O	O	O
 breuke	O	O	O
-aangetoont	I-event	O	O
+aangetoont	O	O	O
 h	O	O	O
 bende	O	O	O
 soo	O	O	O
@@ -651,7 +651,7 @@ landen	O	O	O
 heeft	O	O	O
 verdiend	I-event	O	O
 de	O	O	O
-straffe	O	O	I-event
+straffe	I-event	O	I-event
 van	O	O	O
 diefte	O	I-event	I-event
 is	O	O	O
@@ -662,7 +662,7 @@ om	O	O	O
 me	O	O	O
 vele	O	O	O
 regtsgeleerde	O	O	O
-beweesen	I-event	O	O
+beweesen	O	O	O
 te	O	O	O
 moeten	O	O	O
 werden	O	O	O
@@ -687,8 +687,8 @@ alle	O	O	O
 deselve	O	O	O
 niet	O	O	O
 alle	O	O	O
-aan	I-event	O	O
-te	I-event	O	O
+aan	O	O	O
+te	O	O	O
 haelen	I-event	O	O
 ,	O	O	O
 soo	O	O	O
@@ -715,7 +715,7 @@ soo	O	O	O
 de	O	O	O
 dieste	O	I-event	O
 is	O	O	O
-vermengt	O	O	O
+vermengt	I-event	O	O
 met	O	O	O
 hun	O	O	O
 braak	O	O	O
@@ -809,7 +809,7 @@ die	O	O	O
 met	O	O	O
 gewelt	O	I-event	I-event
 of	O	O	O
-huijsbra	O	O	O
+huijsbra	I-event	O	O
 #	O	O	O
 geschieden	O	O	O
 ,	O	O	O
@@ -849,7 +849,7 @@ ofte	O	O	O
 imand	O	O	O
 het	O	O	O
 sijne	O	O	O
-afgedwongen	O	I-event	O
+afgedwongen	I-event	I-event	O
 te	O	O	O
 hebben	O	O	O
 ,	O	O	O
@@ -896,7 +896,7 @@ Erven	O	O	O
 imand	O	O	O
 het	O	O	O
 sijne	O	O	O
-benoomen	I-event	I-event	O
+benoomen	O	I-event	O
 te	O	O	O
 hebben	O	O	O
 ,	O	O	O
@@ -932,7 +932,7 @@ naar	O	O	O
 volgt	O	O	O
 ,	O	O	O
 met	O	O	O
-confiscatie	I-event	I-event	O
+confiscatie	O	I-event	O
 van	O	O	O
 goederen	O	O	O
 ,	O	O	O
@@ -1036,7 +1036,7 @@ dat	O	O	O
 hij	O	O	O
 in	O	O	O
 han	O	O	O
-sinde	I-event	O	O
+sinde	O	O	O
 geweest	O	O	O
 niet	O	O	O
 van	O	O	O
@@ -1070,7 +1070,7 @@ om	O	O	O
 syn	O	O	O
 feijt	O	O	O
 stilletjes	O	O	O
-uijt	I-event	O	O
+uijt	O	O	O
 ,	O	O	O
 te	O	O	O
 voeren	I-event	O	O
@@ -1089,7 +1089,7 @@ dat	O	O	O
 die	O	O	O
 placcaeten	O	O	O
 geen	O	O	O
-onders	I-event	O	O
+onders	O	O	O
 maeken	O	O	O
 of	O	O	O
 de	O	O	O
@@ -1100,7 +1100,7 @@ buijten	O	O	O
 ofte	O	O	O
 van	O	O	O
 binne	O	O	O
-geschiet	I-event	O	O
+geschiet	O	O	O
 ,	O	O	O
 maer	O	O	O
 alleen	O	O	O
@@ -1108,8 +1108,8 @@ het	O	O	O
 gewelt	O	I-event	I-event
 en	O	O	O
 breuke	O	O	O
-regu	O	O	O
-reeren	I-event	O	O
+regu	I-event	O	O
+reeren	O	O	O
 om	O	O	O
 de	O	I-event	O
 dood	O	I-event	I-event
@@ -1142,7 +1142,7 @@ seggende	O	O	O
 mede	O	O	O
 alle	O	O	O
 regtsge	O	O	O
-gewelt	I-event	I-event	I-event
+gewelt	O	I-event	I-event
 heeft	O	O	O
 begaen	O	O	O
 ;	O	O	O
@@ -1159,7 +1159,7 @@ is	O	O	O
 ,	O	O	O
 swaerder	O	O	O
 moet	O	O	O
-gestraft	I-event	O	I-event
+gestraft	O	O	I-event
 worden	O	O	O
 als	O	O	O
 een	O	O	O
@@ -1175,7 +1175,7 @@ sig	O	O	O
 soo	O	O	O
 wel	O	O	O
 niet	O	O	O
-wagten	I-event	O	O
+wagten	O	O	O
 kan	O	O	O
 voor	O	O	O
 een	O	O	O
@@ -1209,7 +1209,7 @@ imand	O	O	O
 sijne	O	O	O
 praesieuste	O	O	O
 deren	O	O	O
-bewaart	O	O	O
+bewaart	I-event	O	O
 nogte	O	O	O
 op	O	O	O
 wat	O	O	O
@@ -1231,7 +1231,7 @@ te	O	O	O
 gelijk	O	O	O
 een	O	O	O
 huijsgenoot	O	O	O
-sluijten	I-event	O	O
+sluijten	O	O	O
 ofte	O	O	O
 verseekeren	O	O	O
 ,	O	O	O
@@ -1244,7 +1244,7 @@ altemet	O	O	O
 genoodsaekt	O	O	O
 t	O	O	O
 hulpe	O	O	O
-meede	I-event	O	O
+meede	O	O	O
 te	O	O	O
 nemen	I-event	O	O
 is	O	O	O
@@ -1435,7 +1435,7 @@ sijne	O	O	O
 goederen	O	O	O
 ofte	O	O	O
 vee	O	O	O
-gaade	O	O	O
+gaade	I-event	O	O
 te	O	O	O
 slaan	I-event	O	O
 ,	O	O	O
@@ -1449,7 +1449,7 @@ en	O	O	O
 dies	O	O	O
 besorging	I-event	O	O
 over	I-event	O	O
-te	I-event	O	O
+te	O	O	O
 laeten	I-event	O	O
 ,	O	O	O
 altemet	O	O	O
@@ -1506,7 +1506,7 @@ verbergt	I-event	O	O
 niet	O	O	O
 soo	O	O	O
 swaar	O	O	O
-gestraft	I-event	O	I-event
+gestraft	O	O	I-event
 wierd	O	O	O
 ,	O	O	O
 wanneer	O	O	O
@@ -1533,7 +1533,7 @@ en	O	O	O
 daar	O	O	O
 alles	O	O	O
 uijt	O	O	O
-steelt	I-event	I-event	O
+steelt	O	I-event	O
 als	O	I-event	O
 een	O	I-event	O
 dief	O	I-event	I-event
@@ -1543,7 +1543,7 @@ daer	O	O	O
 men	O	O	O
 sig	O	O	O
 voor	O	O	O
-wagten	I-event	O	O
+wagten	O	O	O
 kan	O	O	O
 ,	O	O	O
 soo	O	O	O
@@ -1575,7 +1575,7 @@ om	O	O	O
 sijne	O	O	O
 affaires	O	O	O
 te	O	O	O
-verrigten	I-event	O	O
+verrigten	O	O	O
 ,	O	O	O
 Nog	O	O	O
 moet	O	O	O
@@ -1594,7 +1594,7 @@ werden	O	O	O
 aangemerkt	O	O	O
 als	O	O	O
 een	O	O	O
-diefstal	I-event	I-event	I-event
+diefstal	O	I-event	I-event
 van	O	O	O
 v	O	O	O
 vreemde	O	O	O
@@ -1609,7 +1609,7 @@ slaven	O	O	O
 tegens	O	O	O
 haar	O	O	O
 meesters	O	O	O
-bedrijven	O	O	O
+bedrijven	I-event	O	O
 swaer	O	I-event	O
 gestraft	I-event	I-event	I-event
 worden	O	O	O
@@ -1629,14 +1629,14 @@ die	O	O	O
 sijn	O	I-event	O
 hand	O	I-event	O
 maar	O	I-event	O
-opligt	I-event	I-event	O
+opligt	O	I-event	O
 teegens	O	O	O
 sijn	O	O	O
 meester	O	O	O
 sonder	O	O	O
 hem	O	O	O
 te	O	O	O
-grieven	O	I-event	O
+grieven	I-event	I-event	O
 ofte	O	O	O
 te	O	O	O
 slaan	O	I-event	O
@@ -1657,7 +1657,7 @@ sijn	O	O	O
 verschooning	O	O	O
 in	O	O	O
 te	O	O	O
-brenge	O	O	O
+brenge	I-event	O	O
 om	O	O	O
 welke	O	O	O
 alle	O	O	O
@@ -1674,7 +1674,7 @@ delicten	O	O	O
 v	O	O	O
 goed	O	O	O
 regt	O	O	O
-vermeynt	I-event	O	O
+vermeynt	O	O	O
 te	O	O	O
 moeten	O	O	O
 en	O	O	O
@@ -1713,7 +1713,7 @@ on	O	I-event	O
 me	O	I-event	O
 gebragt	I-event	I-event	I-event
 te	O	I-event	O
-werden	I-event	I-event	O
+werden	O	I-event	O
 ter	O	O	O
 plaa	O	O	O
 se	O	O	O
@@ -1724,12 +1724,12 @@ gewoon	O	O	O
 crimineele	O	O	O
 sententien	O	O	O
 te	O	O	O
-execuren	I-event	O	O
+execuren	O	O	O
 en	O	O	O
 aldaer	O	O	O
 den	O	O	O
 scherprecht	O	O	O
-overgelevert	I-event	I-event	O
+overgelevert	O	I-event	O
 sijnde	O	O	O
 ,	O	O	O
 met	O	O	O
@@ -1739,7 +1739,7 @@ de	O	O	O
 aan	O	I-event	O
 de	O	I-event	O
 galg	O	I-event	O
-gestraft	I-event	I-event	I-event
+gestraft	O	I-event	I-event
 te	O	I-event	O
 werden	O	I-event	O
 ,	O	O	O
@@ -1857,7 +1857,7 @@ January	O	O	O
 Van	O	O	O
 Bengalen	O	O	O
 ,	O	O	O
-slaaf	O	I-event	O
+slaaf	I-event	I-event	O
 van	O	O	O
 den	O	O	O
 soldaat	O	O	O
@@ -1978,7 +1978,7 @@ die	O	O	O
 Caamer	O	O	O
 ging	I-event	I-event	O
 ,	O	O	O
-breekende	O	I-event	O
+breekende	I-event	I-event	O
 vervolgens	O	O	O
 met	O	O	O
 een	O	O	O
@@ -2022,7 +2022,7 @@ goude	O	O	O
 ringen	O	O	O
 hem	O	O	O
 heeden	O	O	O
-vertoont	I-event	O	O
+vertoont	O	O	O
 ,	O	O	O
 dat	O	O	O
 terwijl	O	O	O
@@ -2063,7 +2063,7 @@ hij	O	O	O
 Mertsch	O	O	O
 te	O	O	O
 rug	I-event	O	O
-was	I-event	O	O
+was	O	O	O
 gekom	I-event	I-event	O
 hij	O	O	O
 Confesst	O	O	O
@@ -2077,7 +2077,7 @@ geld	O	O	O
 heeft	O	O	O
 gegeven	I-event	I-event	O
 ,	O	O	O
-gaande	I-event	I-event	I-event
+gaande	O	I-event	I-event
 daar	O	O	O
 naar	O	O	O
 te	O	O	O
@@ -2105,7 +2105,7 @@ Confess	O	O	O
 :	O	O	O
 't	O	O	O
 gelt	O	O	O
-weer	O	O	O
+weer	I-event	O	O
 gegeven	I-event	I-event	O
 ,	O	O	O
 da	O	O	O
@@ -2146,7 +2146,7 @@ Confess	O	O	O
 :	O	O	O
 ts	O	O	O
 sak	O	O	O
-ondekt	O	O	O
+ondekt	I-event	O	O
 wierden	O	O	O
 en	O	O	O
 vo	O	O	O
@@ -2429,7 +2429,7 @@ oud	O	O	O
 20	O	O	O
 Jaaren	O	O	O
 ,	O	O	O
-slaaf	O	I-event	O
+slaaf	I-event	I-event	O
 van	O	O	O
 den	O	O	O
 soldaat	O	O	O
@@ -2451,7 +2451,7 @@ Van	O	O	O
 Den	O	O	O
 Henghel	O	O	O
 ,	O	O	O
-Confisseerde	I-event	O	O
+Confisseerde	O	O	O
 hoe	O	O	O
 waar	O	O	O
 is	O	O	O
@@ -2464,7 +2464,7 @@ geleden	O	O	O
 ,	O	O	O
 terwijl	O	O	O
 sijn	O	O	O
-Leijfheer	I-event	O	O
+Leijfheer	O	O	O
 buijten	O	I-event	O
 was	O	I-event	O
 ,	O	O	O
@@ -2474,7 +2474,7 @@ Januarij	O	O	O
 sijn	O	O	O
 baas	O	O	O
 mede	O	O	O
-toebehoorende	O	I-event	O
+toebehoorende	I-event	I-event	O
 ,	O	O	O
 hem	O	O	O
 Confess	O	O	O
@@ -2495,7 +2495,7 @@ sinjeur	O	O	O
 op	O	I-event	O
 en	O	I-event	O
 te	O	I-event	O
-breeken	O	I-event	I-event
+breeken	I-event	I-event	I-event
 ,	O	O	O
 dat	O	O	O
 hij	O	O	O
@@ -2546,7 +2546,7 @@ de	O	O	O
 Camer	O	O	O
 ging	I-event	I-event	O
 ,	O	O	O
-breekende	O	I-event	O
+breekende	I-event	I-event	O
 vervolgens	O	O	O
 met	O	O	O
 een	O	O	O
@@ -2607,7 +2607,7 @@ en	O	O	O
 't	O	O	O
 ander	O	O	O
 te	O	O	O
-ontfangen	O	I-event	I-event
+ontfangen	I-event	I-event	I-event
 ,	O	O	O
 is	O	O	O
 hij	O	O	O
@@ -2628,7 +2628,7 @@ een	O	O	O
 van	O	O	O
 de	O	O	O
 buurlieden	O	O	O
-bekent	I-event	O	O
+bekent	O	O	O
 gemaakt	O	O	O
 ,	O	O	O
 die	O	O	O
@@ -2745,7 +2745,7 @@ gestoolen	I-event	I-event	O
 had	O	O	O
 Aldus	O	O	O
 bij	O	O	O
-vertolking	I-event	O	O
+vertolking	O	O	O
 van	O	O	O
 de	O	O	O
 slaaf	O	O	O
@@ -2754,7 +2754,7 @@ uijt	O	O	O
 mallabaars	O	O	O
 in't	O	O	O
 nederduijtsch	O	O	O
-geconfesseert	I-event	O	O
+geconfesseert	O	O	O
 ,	O	O	O
 aan	O	O	O
 Cabo	O	O	O
@@ -2922,7 +2922,7 @@ gen	O	O	O
 Lessenaer	O	O	O
 heeft	O	O	O
 open	O	I-event	O
-gebrooken	O	I-event	I-event
+gebrooken	I-event	I-event	I-event
 .	O	O	O
 —	O	O	O
 /:onderstond:/	O	O	O
@@ -3042,7 +3042,7 @@ dien	O	O	O
 vrij	O	O	O
 willig	O	O	O
 heeft	O	O	O
-geconfesseert	I-event	O	O
+geconfesseert	O	O	O
 ,	O	O	O
 en	O	O	O
 den	O	O	O
@@ -3139,7 +3139,7 @@ op	O	O	O
 geklom	I-event	I-event	O
 men	O	I-event	O
 ,	O	O	O
-breekende	O	I-event	O
+breekende	I-event	I-event	O
 vervolgens	O	O	O
 een	O	O	O
 ruijt	O	O	O
@@ -3179,7 +3179,7 @@ aldaer	O	O	O
 staande	O	O	O
 Lessenaer	O	O	O
 heeft	O	O	O
-opengebrooken	O	I-event	O
+opengebrooken	I-event	I-event	O
 ,	O	O	O
 waar	O	O	O
 in	O	O	O
@@ -3196,10 +3196,10 @@ en	O	O	O
 ander	O	O	O
 goed	O	O	O
 ,	O	O	O
-bewaarde	O	I-event	O
+bewaarde	I-event	I-event	O
 ,	O	O	O
 en	O	O	O
-nam	O	I-event	O
+nam	I-event	I-event	O
 hij	O	O	O
 gevangen	O	I-event	I-event
 daar	O	O	O
@@ -3280,7 +3280,7 @@ op	O	O	O
 straat	O	O	O
 sijnde	O	I-event	O
 ,	O	O	O
-gaf	O	I-event	I-event
+gaf	I-event	I-event	I-event
 gemelde	O	O	O
 slaaf	O	O	O
 ,	O	O	O
@@ -3354,8 +3354,8 @@ geworden	O	O	O
 ,	O	O	O
 wierd	O	O	O
 gevangen	I-event	I-event	I-event
-ge	I-event	I-event	O
-men	I-event	I-event	O
+ge	O	I-event	O
+men	O	I-event	O
 ,	O	O	O
 en	O	O	O
 in	O	O	O
@@ -3377,7 +3377,7 @@ daar	O	O	O
 regt	O	O	O
 en	O	O	O
 Justitie	O	O	O
-geoeffent	I-event	O	O
+geoeffent	O	O	O
 word	O	O	O
 ,	O	O	O
 niet	O	O	O
@@ -3398,7 +3398,7 @@ op	O	O	O
 rig	O	O	O
 reuste	O	O	O
 dienen	O	O	O
-gestraft	I-event	O	I-event
+gestraft	O	O	I-event
 te	O	O	O
 werden	O	O	O
 ,	O	O	O
@@ -3425,7 +3425,7 @@ dagtelijk	O	O	O
 hebbende	O	O	O
 gelesen	O	O	O
 en	O	O	O
-geresumeert	I-event	O	O
+geresumeert	O	O	O
 1	O	O	O
 schriftelijken	O	O	O
 Crimineelen	O	O	O
@@ -3529,7 +3529,7 @@ mits	O	O	O
 deesen	O	O	O
 ,	O	O	O
 omme	O	O	O
-gebragt	I-event	I-event	I-event
+gebragt	O	I-event	I-event
 te	O	O	O
 werden	O	O	O
 ter	O	O	O
@@ -3569,9 +3569,9 @@ de	O	O	O
 bloote	O	O	O
 rugge	O	O	O
 strengelijk	O	O	O
-gegeeselt	I-event	I-event	I-event
+gegeeselt	O	I-event	I-event
 en	O	O	O
-gebrandmerkt	I-event	I-event	I-event
+gebrandmerkt	O	I-event	I-event
 te	O	O	O
 werden	O	O	O
 ,	O	O	O
@@ -3584,14 +3584,14 @@ tien	O	O	O
 Jaaren	O	O	O
 in	O	I-event	O
 de	O	I-event	O
-ketting	I-event	I-event	O
+ketting	O	I-event	O
 geslagen	I-event	I-event	O
 synde	O	I-event	O
 ,	O	O	O
 dus	O	O	O
 sijn	O	O	O
 Lijfheer	O	O	O
-thuijs	O	O	O
+thuijs	I-event	O	O
 te	O	O	O
 werden	I-event	O	O
 gesonden	I-event	I-event	I-event

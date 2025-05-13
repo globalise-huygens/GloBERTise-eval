@@ -37,11 +37,11 @@ van	O	O	O
 twee	O	O	O
 Javanen	O	O	O
 ,	O	O	O
-geboortig	O	O	O
+geboortig	I-event	O	O
 van	O	O	O
 Caliegawee	O	O	O
 ,	O	O	O
-onderhorig	O	O	O
+onderhorig	I-event	O	O
 plaetsje	O	O	O
 van	O	O	O
 Samarang	O	O	O
@@ -71,7 +71,7 @@ Naija	O	O	O
 en	O	O	O
 patra	O	O	O
 ,	O	O	O
-geboortig	O	O	O
+geboortig	I-event	O	O
 van	O	O	O
 Caliegawee	O	O	O
 ,	O	O	O
@@ -91,7 +91,7 @@ van	O	O	O
 gem	O	O	O
 :	O	O	O
 haar	O	O	O
-geboorte	O	O	O
+geboorte	I-event	O	O
 plaets	O	O	O
 ,	O	O	O
 met	O	O	O
@@ -99,7 +99,7 @@ een	O	O	O
 Jnlands	O	O	O
 vaertuijg	O	O	O
 als	O	O	O
-passagiers	I-event	O	I-event
+passagiers	O	O	I-event
 vertrocken	I-event	I-event	I-event
 zijn	O	O	O
 ,	O	O	O
@@ -109,10 +109,10 @@ Bantam	O	O	O
 om	O	O	O
 aldaar	O	O	O
 haar	O	O	O
-Fortuijn	I-event	O	O
+Fortuijn	O	O	O
 ,	O	O	O
 en	O	O	O
-onderhoud	I-event	O	O
+onderhoud	O	O	O
 te	O	O	O
 soeken	I-event	O	O
 ,	O	O	O
@@ -129,9 +129,9 @@ voorsz	O	O	O
 plaetse	O	O	O
 komende	I-event	I-event	I-event
 ,	O	O	O
-sig	I-event	O	O
+sig	O	O	O
 begeven	I-event	O	O
-hebben	I-event	O	O
+hebben	O	O	O
 in	I-event	I-event	O
 dienst	I-event	I-event	O
 van	O	O	O
@@ -170,7 +170,7 @@ priackaes	O	O	O
 aangenomen	I-event	I-event	O
 ,	O	O	O
 en	O	O	O
-g'emploijeert	O	I-event	O
+g'emploijeert	I-event	I-event	O
 zijn	O	O	O
 ;	O	O	O
 tot	O	O	O
@@ -201,7 +201,7 @@ tot	O	O	O
 stuijvs	O	O	O
 daags	O	O	O
 ,	O	O	O
-gevende	O	I-event	I-event
+gevende	I-event	I-event	I-event
 het	O	O	O
 zelve	O	O	O
 gestadig	O	O	O
@@ -214,7 +214,7 @@ gem	O	O	O
 Ardie	O	O	O
 ,	O	O	O
 te	O	O	O
-bewaren	O	I-event	O
+bewaren	I-event	I-event	O
 ,	O	O	O
 den	O	O	O
 tijd	O	O	O
@@ -245,7 +245,7 @@ wierden	O	O	O
 weder	O	O	O
 na	O	O	O
 haar	O	O	O
-geboorte	O	O	O
+geboorte	I-event	O	O
 plaets	O	O	O
 Caliegawee	O	O	O
 te	O	O	O
@@ -308,7 +308,7 @@ mael	O	O	O
 aansprack	O	O	O
 ,	O	O	O
 en	O	O	O
-versogt	O	I-event	O
+versogt	I-event	I-event	O
 om	O	O	O
 met	O	O	O
 hem	O	O	O
@@ -318,7 +318,7 @@ mede	I-event	O	O
 gaan	I-event	I-event	O
 tot	O	O	O
 het	O	O	O
-doen	O	O	O
+doen	I-event	O	O
 ,	O	O	O
 en	O	O	O
 drijven	I-event	O	O
@@ -343,7 +343,7 @@ en	O	O	O
 met	O	O	O
 hem	O	O	O
 mede	O	O	O
-overland	I-event	O	O
+overland	O	O	O
 gereijst	I-event	I-event	O
 zijn	O	O	O
 ,	O	O	O
@@ -373,7 +373,7 @@ aldaar	O	O	O
 mede	O	O	O
 peper	O	O	O
 't	O	O	O
-plantagies	O	O	I-event
+plantagies	I-event	O	I-event
 zijn	O	O	O
 ,	O	O	O
 soo	O	O	O
@@ -415,7 +415,7 @@ en	O	O	O
 zij	O	O	O
 vervolgens	O	O	O
 opgevat	I-event	I-event	O
-gebonden	O	I-event	O
+gebonden	I-event	I-event	O
 en	O	O	O
 soo	O	O	O
 weg	I-event	I-event	O
@@ -476,7 +476,7 @@ sonder	O	O	O
 datse	O	O	O
 hets	O	O	O
 anders	O	O	O
-kregen	I-event	I-event	O
+kregen	O	I-event	O
 dan	O	O	O
 zout	O	O	O
 ,	O	O	O
@@ -487,7 +487,7 @@ het	O	O	O
 verdere	O	O	O
 tot	O	O	O
 haar	O	O	O
-nodrust	I-event	O	O
+nodrust	O	O	O
 ,	O	O	O
 waren	O	I-event	O
 gehouden	O	I-event	O
@@ -521,7 +521,7 @@ vreemde	O	O	O
 off	O	O	O
 andere	O	O	O
 menschen	O	O	O
-gesien	I-event	O	O
+gesien	O	O	O
 ,	O	O	O
 buijten	O	O	O
 haar	O	O	O
@@ -542,14 +542,14 @@ dewijlse	O	O	O
 seer	O	O	O
 bloedig	O	O	O
 moesten	O	I-event	O
-arbeijden	O	I-event	O
+arbeijden	I-event	I-event	O
 ,	O	O	O
 en	O	O	O
 geen	O	O	O
 genoegsame	O	O	O
 lighaams	O	O	O
 onderhoud	O	O	O
-kregen	I-event	I-event	O
+kregen	O	I-event	O
 ,	O	O	O
 op	O	O	O
 't	O	O	O
@@ -575,14 +575,14 @@ zee	O	O	O
 strant	O	O	O
 ;	O	O	O
 alwaar	O	O	O
-komende	O	I-event	I-event
+komende	I-event	I-event	I-event
 en	O	O	O
 vindende	O	I-event	O
 een	O	O	O
 CanoÃ¢	O	O	O
 aan	O	O	O
 strant	O	O	O
-leggen	I-event	I-event	O
+leggen	O	I-event	O
 ,	O	O	O
 zijn	O	O	O
 daar	O	O	O

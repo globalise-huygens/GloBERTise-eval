@@ -88,7 +88,7 @@ ende	O	O	O
 den	O	O	O
 schralen	O	O	O
 wint	O	O	O
-belet	I-event	I-event	O
+belet	O	I-event	O
 geweeest	I-event	O	O
 alsoo	O	O	O
 wij	O	O	O
@@ -136,7 +136,7 @@ deen	O	O	O
 november	O	O	O
 sijn	O	O	O
 wij	O	O	O
-gepasseert	I-event	I-event	O
+gepasseert	O	I-event	O
 het	O	O	O
 Eijlant	O	O	O
 palma	O	O	O
@@ -203,7 +203,7 @@ bocken	O	O	O
 geschoncken	O	I-event	O
 oock	O	O	O
 andren	O	O	O
-vernersinge	O	O	O
+vernersinge	I-event	O	O
 ende	O	O	O
 is	O	O	O
 aen	O	O	O
@@ -260,7 +260,7 @@ hebben	O	O	O
 wij	O	O	O
 een	O	O	O
 missiue	O	O	O
-gelaten	I-event	I-event	O
+gelaten	O	I-event	O
 om	O	O	O
 aen	O	O	O
 de	O	O	O
@@ -270,7 +270,7 @@ E.	O	O	O
 Heere	O	O	O
 Bewinthebberen	O	O	O
 te	O	O	O
-bestellen	I-event	I-event	O
+bestellen	O	I-event	O
 met	O	O	O
 de	O	O	O
 Eerste	O	O	O
@@ -325,7 +325,7 @@ van	O	O	O
 Nijo	O	O	O
 de	O	O	O
 maijo	O	O	O
-tseijl	O	I-event	O
+tseijl	I-event	I-event	O
 gegaen	I-event	I-event	O
 ende	O	O	O
 den	O	O	O
@@ -396,7 +396,7 @@ aduijs	O	O	O
 was	O	O	O
 is	O	O	O
 opt	O	O	O
-versoeck	O	I-event	I-event
+versoeck	I-event	I-event	I-event
 van	O	O	O
 den	O	O	O
 Commandeur	O	O	O
@@ -427,7 +427,7 @@ graden	O	O	O
 zijn	O	O	O
 jerencon	O	I-event	O
 :	O	I-event	O
-treert	I-event	I-event	O
+treert	O	I-event	O
 den	O	O	O
 zeewolff	O	O	O
 die	O	O	O
@@ -456,7 +456,7 @@ gesont	O	O	O
 volck	O	O	O
 als	O	O	O
 waeijnich	O	O	O
-geaffligeert	O	I-event	O
+geaffligeert	I-event	I-event	O
 met	O	O	O
 scheurbins	O	I-event	O
 ende	O	O	O
@@ -510,7 +510,7 @@ hebloff	O	O	O
 ende	O	O	O
 Danck	O	O	O
 synde	O	O	O
-geladen	I-event	I-event	O
+geladen	O	I-event	O
 met	O	O	O
 een	O	O	O
 goet	O	O	O
@@ -535,12 +535,12 @@ Den	O	O	O
 ditto	O	O	O
 alsoo	O	O	O
 wij	O	O	O
-versien	I-event	I-event	O
+versien	O	I-event	O
 waren	O	O	O
 van	O	O	O
 water	O	O	O
 hebben	O	O	O
-corlfgenomen	O	O	O
+corlfgenomen	I-event	O	O
 van	O	O	O
 den	O	O	O
 Heer	O	O	O
@@ -554,7 +554,7 @@ eersten	O	O	O
 peden	O	O	O
 wint	O	O	O
 te	O	O	O
-vernorderen	O	I-event	O
+vernorderen	I-event	I-event	O
 naer	O	O	O
 de	O	O	O
 Cust	O	O	O
@@ -587,7 +587,7 @@ welcke	O	O	O
 deur	O	O	O
 het	O	O	O
 haestige	O	O	O
-vertreck	I-event	I-event	I-event
+vertreck	O	I-event	I-event
 niet	O	O	O
 eer	O	O	O
 en	O	O	O

@@ -70,7 +70,7 @@ twintigste	O	O	O
 passato	O	O	O
 in	O	O	O
 goede	O	O	O
-Gesontheijt	O	O	O
+Gesontheijt	I-event	O	O
 met	O	O	O
 mijn	O	O	O
 famillie	O	O	O
@@ -100,7 +100,7 @@ sesen	O	O	O
 twintigste	O	O	O
 maart	O	O	O
 in	O	O	O
-goeden	O	O	O
+goeden	I-event	O	O
 staat	O	O	O
 aangekome	I-event	I-event	O
 op	O	O	O
@@ -129,7 +129,7 @@ voorledene	O	O	O
 maant	O	O	O
 de	O	O	O
 saldaigne	O	O	O
-in	I-event	I-event	O
+in	O	I-event	O
 geloopen	I-event	I-event	O
 ,	O	O	O
 waarnaa	O	O	O
@@ -155,7 +155,7 @@ om	O	O	O
 met	O	O	O
 deerste	O	O	O
 bequaame	O	O	O
-begeven	I-event	O	O
+begeven	O	O	O
 ,	O	O	O
 de	O	O	O
 Retour	O	I-event	O
@@ -171,7 +171,7 @@ noodige	O	O	O
 ,	O	O	O
 om	O	O	O
 haar	O	O	O
-reijs	I-event	I-event	I-event
+reijs	O	I-event	I-event
 te	O	O	O
 kunne	O	O	O
 vervordere	I-event	O	O
@@ -186,7 +186,7 @@ zegen	O	O	O
 sonder	O	O	O
 ongemak	O	I-event	O
 mag	O	O	O
-te	O	I-event	O
+te	I-event	I-event	O
 patrieren	I-event	I-event	O
 .	O	O	O
 het	O	O	O
@@ -207,7 +207,7 @@ minste	O	O	O
 tijding	O	I-event	O
 daar	O	I-event	O
 van	O	I-event	O
-gehoort	I-event	I-event	O
+gehoort	O	I-event	O
 :	O	O	O
 De	O	O	O
 kortheijt	O	O	O
@@ -227,9 +227,9 @@ besorgen	I-event	O	O
 ,	O	O	O
 hebben	O	O	O
 mij	O	O	O
-belet	I-event	O	O
+belet	O	O	O
 om	O	O	O
-in	O	I-event	O
+in	I-event	I-event	O
 spectie	I-event	I-event	O
 te	O	I-event	O
 kunnen	O	I-event	O
@@ -301,7 +301,7 @@ door	O	O	O
 haare	O	O	O
 missives	O	O	O
 hebben	O	I-event	O
-bekent	O	I-event	O
+bekent	I-event	I-event	O
 gemaakt	O	I-event	O
 .	O	O	O
 wint	O	O	O

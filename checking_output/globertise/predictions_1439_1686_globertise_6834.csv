@@ -17,7 +17,7 @@ schipper	O	O	O
 en	O	O	O
 andere	O	O	O
 officieren	O	O	O
-verhalen	I-event	I-event	O
+verhalen	O	I-event	O
 ons	O	O	O
 ,	O	O	O
 hoe	O	O	O
@@ -49,7 +49,7 @@ aan	I-event	I-event	O
 troffen	I-event	I-event	O
 die	O	I-event	O
 hun	O	O	O
-bekent	O	I-event	O
+bekent	I-event	I-event	O
 maakten	O	I-event	O
 ,	O	O	O
 hoeden	O	O	O
@@ -79,7 +79,7 @@ met	O	O	O
 de	O	O	O
 boekhouder	O	O	O
 wegens	O	O	O
-slavenhandel	O	I-event	I-event
+slavenhandel	I-event	I-event	I-event
 an	O	I-event	O
 land	O	I-event	O
 waren	I-event	I-event	O
@@ -126,7 +126,7 @@ Hobre	O	O	O
 uijt	O	O	O
 texel	O	O	O
 in	O	O	O
-zeegelopten	I-event	I-event	O
+zeegelopten	O	I-event	O
 ,	O	O	O
 en	O	O	O
 van	O	O	O
@@ -154,7 +154,7 @@ man	O	O	O
 die	O	O	O
 gegift	O	O	O
 wert	O	O	O
-overboort	I-event	I-event	O
+overboort	O	I-event	O
 gevallen	I-event	I-event	O
 te	O	O	O
 zin	O	O	O
@@ -182,9 +182,9 @@ verslag	O	I-event	I-event
 gedaan	O	I-event	O
 der	O	O	O
 sijd	O	O	O
-gange	I-event	O	O
+gange	O	O	O
 en	O	O	O
-uitsporigheden	O	O	O
+uitsporigheden	I-event	O	O
 ,	O	O	O
 gedurende	O	O	O
 desselfs	O	O	O
@@ -221,7 +221,7 @@ betragten	O	O	O
 sijnerpligt	O	O	O
 seer	O	I-event	O
 ernstelijk	O	I-event	O
-aanbevolen	I-event	I-event	O
+aanbevolen	O	I-event	O
 ,	O	O	O
 en	O	O	O
 den	O	O	O
@@ -316,7 +316,7 @@ keer	I-event	O	O
 na	O	O	O
 Madagascar	O	O	O
 telaten	O	I-event	O
-doen	I-event	I-event	O
+doen	O	I-event	O
 al	O	O	O
 soo	O	O	O
 wij	O	O	O
@@ -377,5 +377,5 @@ deselve	O	O	O
 Adroictire	O	O	O
 op	O	O	O
 Sumatra	O	O	O
-vlosen	I-event	I-event	O
+vlosen	O	I-event	O
 .	O	O	O

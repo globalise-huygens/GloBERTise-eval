@@ -17,7 +17,7 @@ schipper	O	O	O
 en	O	O	O
 andere	O	O	O
 officieren	O	O	O
-verhalen	O	I-event	O
+verhalen	I-event	I-event	O
 ons	O	O	O
 ,	O	O	O
 hoe	O	O	O
@@ -49,7 +49,7 @@ aan	I-event	I-event	O
 troffen	I-event	I-event	O
 die	O	I-event	O
 hun	O	O	O
-bekent	O	I-event	O
+bekent	I-event	I-event	O
 maakten	O	I-event	O
 ,	O	O	O
 hoeden	O	O	O
@@ -70,7 +70,7 @@ engels	O	O	O
 France	O	O	O
 en	O	O	O
 Hollanders	O	O	O
-genand	O	O	O
+genand	I-event	O	O
 ,	O	O	O
 terwijl	O	O	O
 de	O	O	O
@@ -79,7 +79,7 @@ met	O	O	O
 de	O	O	O
 boekhouder	O	O	O
 wegens	O	O	O
-slavenhandel	I-event	I-event	I-event
+slavenhandel	O	I-event	I-event
 an	O	I-event	O
 land	O	I-event	O
 waren	I-event	I-event	O
@@ -118,7 +118,7 @@ den	O	O	O
 '	O	O	O
 Julij	O	O	O
 in	O	O	O
-geselschap	I-event	O	O
+geselschap	O	O	O
 vand	O	O	O
 '	O	O	O
 bluijt	O	O	O
@@ -154,7 +154,7 @@ man	O	O	O
 die	O	O	O
 gegift	O	O	O
 wert	O	O	O
-overboort	O	I-event	O
+overboort	I-event	I-event	O
 gevallen	I-event	I-event	O
 te	O	O	O
 zin	O	O	O
@@ -182,7 +182,7 @@ verslag	O	I-event	I-event
 gedaan	O	I-event	O
 der	O	O	O
 sijd	O	O	O
-gange	I-event	O	O
+gange	O	O	O
 en	O	O	O
 uitsporigheden	O	O	O
 ,	O	O	O
@@ -208,7 +208,7 @@ des	O	O	O
 ontsaegs	O	O	O
 sijner	O	O	O
 gesaghebberen	O	O	O
-gepleegt	I-event	O	O
+gepleegt	O	O	O
 ;	O	O	O
 dierhalven	O	O	O
 hebben	O	O	O
@@ -230,7 +230,7 @@ gemagtigd	O	I-event	O
 hem	O	O	O
 op	O	O	O
 't	O	O	O
-begaan	O	O	O
+begaan	I-event	O	O
 van	O	O	O
 nieuw	O	O	O
 van	O	O	O
@@ -377,5 +377,5 @@ deselve	O	O	O
 Adroictire	O	O	O
 op	O	O	O
 Sumatra	O	O	O
-vlosen	I-event	I-event	O
+vlosen	O	I-event	O
 .	O	O	O

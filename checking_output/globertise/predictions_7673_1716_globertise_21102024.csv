@@ -10,7 +10,7 @@ Van	O	O	O
 Onderdanig	O	O	O
 berigt	O	O	O
 ,	O	O	O
-overgeleverd	O	I-event	O
+overgeleverd	I-event	I-event	O
 aan	O	O	O
 sijn	O	O	O
 Edelh	O	O	O
@@ -37,7 +37,7 @@ van	O	O	O
 twee	O	O	O
 Javanen	O	O	O
 ,	O	O	O
-geboortig	O	O	O
+geboortig	I-event	O	O
 van	O	O	O
 Caliegawee	O	O	O
 ,	O	O	O
@@ -71,7 +71,7 @@ Naija	O	O	O
 en	O	O	O
 patra	O	O	O
 ,	O	O	O
-geboortig	O	O	O
+geboortig	I-event	O	O
 van	O	O	O
 Caliegawee	O	O	O
 ,	O	O	O
@@ -91,7 +91,7 @@ van	O	O	O
 gem	O	O	O
 :	O	O	O
 haar	O	O	O
-geboorte	O	O	O
+geboorte	I-event	O	O
 plaets	O	O	O
 ,	O	O	O
 met	O	O	O
@@ -109,7 +109,7 @@ Bantam	O	O	O
 om	O	O	O
 aldaar	O	O	O
 haar	O	O	O
-Fortuijn	I-event	O	O
+Fortuijn	O	O	O
 ,	O	O	O
 en	O	O	O
 onderhoud	O	O	O
@@ -131,7 +131,7 @@ komende	I-event	I-event	I-event
 ,	O	O	O
 sig	O	O	O
 begeven	I-event	O	O
-hebben	I-event	O	O
+hebben	O	O	O
 in	I-event	I-event	O
 dienst	I-event	I-event	O
 van	O	O	O
@@ -170,7 +170,7 @@ priackaes	O	O	O
 aangenomen	I-event	I-event	O
 ,	O	O	O
 en	O	O	O
-g'emploijeert	O	I-event	O
+g'emploijeert	I-event	I-event	O
 zijn	O	O	O
 ;	O	O	O
 tot	O	O	O
@@ -201,7 +201,7 @@ tot	O	O	O
 stuijvs	O	O	O
 daags	O	O	O
 ,	O	O	O
-gevende	O	I-event	I-event
+gevende	I-event	I-event	I-event
 het	O	O	O
 zelve	O	O	O
 gestadig	O	O	O
@@ -214,7 +214,7 @@ gem	O	O	O
 Ardie	O	O	O
 ,	O	O	O
 te	O	O	O
-bewaren	I-event	I-event	O
+bewaren	O	I-event	O
 ,	O	O	O
 den	O	O	O
 tijd	O	O	O
@@ -308,7 +308,7 @@ mael	O	O	O
 aansprack	O	O	O
 ,	O	O	O
 en	O	O	O
-versogt	O	I-event	O
+versogt	I-event	I-event	O
 om	O	O	O
 met	O	O	O
 hem	O	O	O
@@ -324,7 +324,7 @@ en	O	O	O
 drijven	I-event	O	O
 van	O	O	O
 sijnen	O	O	O
-handel	O	I-event	I-event
+handel	I-event	I-event	I-event
 het	O	O	O
 gene	O	O	O
 bestaet	O	O	O
@@ -542,7 +542,7 @@ dewijlse	O	O	O
 seer	O	O	O
 bloedig	O	O	O
 moesten	O	I-event	O
-arbeijden	O	I-event	O
+arbeijden	I-event	I-event	O
 ,	O	O	O
 en	O	O	O
 geen	O	O	O
@@ -582,7 +582,7 @@ een	O	O	O
 CanoÃ¢	O	O	O
 aan	O	O	O
 strant	O	O	O
-leggen	O	I-event	O
+leggen	I-event	I-event	O
 ,	O	O	O
 zijn	O	O	O
 daar	O	O	O

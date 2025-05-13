@@ -76,8 +76,8 @@ om	O	O	O
 aldaer	O	O	O
 drie	O	O	O
 daghen	O	O	O
-bij	O	O	O
-te	I-event	O	O
+bij	I-event	O	O
+te	O	O	O
 houden	I-event	O	O
 is	O	O	O
 ons	O	O	O
@@ -88,8 +88,8 @@ ende	O	O	O
 den	O	O	O
 schralen	O	O	O
 wint	O	O	O
-belet	I-event	I-event	O
-geweeest	I-event	O	O
+belet	O	I-event	O
+geweeest	O	O	O
 alsoo	O	O	O
 wij	O	O	O
 groot	O	O	O
@@ -122,7 +122,7 @@ om	O	O	O
 hem	O	O	O
 aldaer	O	O	O
 te	O	O	O
-vinden	O	O	O
+vinden	I-event	O	O
 ofte	O	O	O
 een	O	O	O
 dach	O	O	O
@@ -178,7 +178,7 @@ ander	O	O	O
 Esels	O	O	O
 hooft	O	O	O
 hebben	O	O	O
-toe	O	I-event	O
+toe	I-event	I-event	O
 gestelt	I-event	I-event	O
 ende	O	O	O
 ons	O	O	O
@@ -200,7 +200,7 @@ ons	O	O	O
 meninchte	O	O	O
 van	O	O	O
 bocken	O	O	O
-geschoncken	O	I-event	O
+geschoncken	I-event	I-event	O
 oock	O	O	O
 andren	O	O	O
 vernersinge	I-event	O	O
@@ -216,7 +216,7 @@ slaeff	O	O	O
 ofte	O	O	O
 drie	O	O	O
 op	O	O	O
-belofte	I-event	I-event	O
+belofte	O	I-event	O
 nisse	O	I-event	O
 dat	O	O	O
 hem	O	O	O
@@ -270,7 +270,7 @@ E.	O	O	O
 Heere	O	O	O
 Bewinthebberen	O	O	O
 te	O	O	O
-bestellen	I-event	I-event	O
+bestellen	O	I-event	O
 met	O	O	O
 de	O	O	O
 Eerste	O	O	O
@@ -427,7 +427,7 @@ graden	O	O	O
 zijn	O	O	O
 jerencon	O	I-event	O
 :	O	I-event	O
-treert	O	I-event	O
+treert	I-event	I-event	O
 den	O	O	O
 zeewolff	O	O	O
 die	O	O	O
@@ -469,7 +469,7 @@ die	O	O	O
 daghen	O	O	O
 voor	O	O	O
 ons	O	O	O
-hier	I-event	O	O
+hier	O	O	O
 was	O	O	O
 geweest	I-event	I-event	O
 Den	O	O	O
@@ -540,7 +540,7 @@ waren	O	O	O
 van	O	O	O
 water	O	O	O
 hebben	O	O	O
-corlfgenomen	I-event	O	O
+corlfgenomen	O	O	O
 van	O	O	O
 den	O	O	O
 Heer	O	O	O

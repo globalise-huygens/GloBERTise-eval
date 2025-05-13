@@ -70,7 +70,7 @@ uw	O	O	O
 Edle	O	O	O
 Hoog	O	O	O
 gezag	O	I-event	O
-staat	O	I-event	O
+staat	I-event	I-event	O
 ,	O	O	O
 zo	O	O	O
 heeft	O	O	O
@@ -91,7 +91,7 @@ verwittigen	O	O	O
 en	O	O	O
 vrindelijk	O	O	O
 te	O	O	O
-versoeken	O	I-event	I-event
+versoeken	I-event	I-event	I-event
 ,	O	O	O
 dat	O	O	O
 de	O	O	O
@@ -111,7 +111,7 @@ zijn	O	O	O
 Edele	O	O	O
 mogen	O	O	O
 terug	I-event	I-event	O
-worden	O	I-event	O
+worden	I-event	I-event	O
 gesonden	I-event	I-event	I-event
 ,	O	O	O
 waar	O	O	O
@@ -159,7 +159,7 @@ zijn	O	O	O
 keiserlijke	O	O	O
 majesteits	O	O	O
 bij	O	O	O
-uitnementheid	O	O	O
+uitnementheid	I-event	O	O
 getrouw	O	O	O
 dient	O	O	O
 en	O	O	O
@@ -187,7 +187,7 @@ Edele	O	O	O
 dit	O	O	O
 mijn	O	O	O
 billijk	O	O	O
-versoek	O	I-event	I-event
+versoek	I-event	I-event	I-event
 zal	O	O	O
 accordeeren	O	O	O
 en	O	O	O

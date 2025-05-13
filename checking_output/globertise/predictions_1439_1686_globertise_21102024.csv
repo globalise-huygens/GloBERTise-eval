@@ -17,7 +17,7 @@ schipper	O	O	O
 en	O	O	O
 andere	O	O	O
 officieren	O	O	O
-verhalen	I-event	I-event	O
+verhalen	O	I-event	O
 ons	O	O	O
 ,	O	O	O
 hoe	O	O	O
@@ -36,7 +36,7 @@ maringande	O	O	O
 op	O	O	O
 madagascar	O	O	O
 aangeland	I-event	I-event	I-event
-zynde	O	O	O
+zynde	I-event	O	O
 ,	O	O	O
 aldaar	O	O	O
 eenige	O	O	O
@@ -49,7 +49,7 @@ aan	I-event	I-event	O
 troffen	I-event	I-event	O
 die	O	I-event	O
 hun	O	O	O
-bekent	O	I-event	O
+bekent	I-event	I-event	O
 maakten	O	I-event	O
 ,	O	O	O
 hoeden	O	O	O
@@ -70,7 +70,7 @@ engels	O	O	O
 France	O	O	O
 en	O	O	O
 Hollanders	O	O	O
-genand	I-event	O	O
+genand	O	O	O
 ,	O	O	O
 terwijl	O	O	O
 de	O	O	O
@@ -81,7 +81,7 @@ boekhouder	O	O	O
 wegens	O	O	O
 slavenhandel	I-event	I-event	I-event
 an	O	I-event	O
-land	O	I-event	O
+land	I-event	I-event	O
 waren	I-event	I-event	O
 ,	O	O	O
 indier	O	O	O
@@ -177,14 +177,14 @@ Command	O	O	O
 r	O	O	O
 in	O	O	O
 rade	O	O	O
-verslag	O	I-event	I-event
+verslag	I-event	I-event	I-event
 ,	O	I-event	O
 gedaan	O	I-event	O
 der	O	O	O
 sijd	O	O	O
 gange	O	O	O
 en	O	O	O
-uitsporigheden	O	O	O
+uitsporigheden	I-event	O	O
 ,	O	O	O
 gedurende	O	O	O
 desselfs	O	O	O
@@ -230,7 +230,7 @@ gemagtigd	O	I-event	O
 hem	O	O	O
 op	O	O	O
 't	O	O	O
-begaan	O	O	O
+begaan	I-event	O	O
 van	O	O	O
 nieuw	O	O	O
 van	O	O	O
@@ -241,7 +241,7 @@ ts	O	O	O
 aftesetten	I-event	I-event	O
 en	O	I-event	O
 sin	O	O	O
-dienst	O	I-event	O
+dienst	I-event	I-event	O
 te	O	I-event	O
 ontslaan	I-event	I-event	O
 ,	O	I-event	O
@@ -315,8 +315,8 @@ een	O	O	O
 keer	I-event	O	O
 na	O	O	O
 Madagascar	O	O	O
-telaten	O	I-event	O
-doen	I-event	I-event	O
+telaten	I-event	I-event	O
+doen	O	I-event	O
 al	O	O	O
 soo	O	O	O
 wij	O	O	O
@@ -370,12 +370,12 @@ slaven	O	O	O
 na	O	O	O
 madagascar	O	O	O
 te	O	O	O
-konnen	O	I-event	O
+konnen	I-event	I-event	O
 Halen	I-event	I-event	O
 ,	O	O	O
 deselve	O	O	O
 Adroictire	O	O	O
 op	O	O	O
 Sumatra	O	O	O
-vlosen	I-event	I-event	O
+vlosen	O	I-event	O
 .	O	O	O

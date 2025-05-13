@@ -17,7 +17,7 @@ schipper	O	O	O
 en	O	O	O
 andere	O	O	O
 officieren	O	O	O
-verhalen	I-event	I-event	O
+verhalen	O	I-event	O
 ons	O	O	O
 ,	O	O	O
 hoe	O	O	O
@@ -36,7 +36,7 @@ maringande	O	O	O
 op	O	O	O
 madagascar	O	O	O
 aangeland	I-event	I-event	I-event
-zynde	I-event	O	O
+zynde	O	O	O
 ,	O	O	O
 aldaar	O	O	O
 eenige	O	O	O
@@ -79,7 +79,7 @@ met	O	O	O
 de	O	O	O
 boekhouder	O	O	O
 wegens	O	O	O
-slavenhandel	I-event	I-event	I-event
+slavenhandel	O	I-event	I-event
 an	O	I-event	O
 land	I-event	I-event	O
 waren	I-event	I-event	O
@@ -118,7 +118,7 @@ den	O	O	O
 '	O	O	O
 Julij	O	O	O
 in	O	O	O
-geselschap	I-event	O	O
+geselschap	O	O	O
 vand	O	O	O
 '	O	O	O
 bluijt	O	O	O
@@ -126,7 +126,7 @@ Hobre	O	O	O
 uijt	O	O	O
 texel	O	O	O
 in	O	O	O
-zeegelopten	I-event	I-event	O
+zeegelopten	O	I-event	O
 ,	O	O	O
 en	O	O	O
 van	O	O	O
@@ -230,7 +230,7 @@ gemagtigd	O	I-event	O
 hem	O	O	O
 op	O	O	O
 't	O	O	O
-begaan	O	O	O
+begaan	I-event	O	O
 van	O	O	O
 nieuw	O	O	O
 van	O	O	O
@@ -302,7 +302,7 @@ mees	O	O	O
 =	O	O	O
 re	O	O	O
 bevelen	O	O	O
-goet	I-event	O	O
+goet	O	O	O
 gevonden	O	O	O
 't	O	O	O
 meergemelte	O	O	O
@@ -315,7 +315,7 @@ een	O	O	O
 keer	I-event	O	O
 na	O	O	O
 Madagascar	O	O	O
-telaten	I-event	I-event	O
+telaten	O	I-event	O
 doen	O	I-event	O
 al	O	O	O
 soo	O	O	O
@@ -345,7 +345,7 @@ selve	O	O	O
 met	O	O	O
 d	O	O	O
 '	O	O	O
-aangebragte	O	I-event	O
+aangebragte	I-event	I-event	O
 slaven	O	O	O
 Hier	O	O	O
 vandaan	O	O	O
@@ -377,5 +377,5 @@ deselve	O	O	O
 Adroictire	O	O	O
 op	O	O	O
 Sumatra	O	O	O
-vlosen	I-event	I-event	O
+vlosen	O	I-event	O
 .	O	O	O

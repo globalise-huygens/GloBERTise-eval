@@ -78,7 +78,7 @@ drie	O	O	O
 daghen	O	O	O
 bij	O	O	O
 te	O	O	O
-houden	O	O	O
+houden	I-event	O	O
 is	O	O	O
 ons	O	O	O
 doort	O	O	O
@@ -88,8 +88,8 @@ ende	O	O	O
 den	O	O	O
 schralen	O	O	O
 wint	O	O	O
-belet	O	I-event	O
-geweeest	I-event	O	O
+belet	I-event	I-event	O
+geweeest	O	O	O
 alsoo	O	O	O
 wij	O	O	O
 groot	O	O	O
@@ -136,7 +136,7 @@ deen	O	O	O
 november	O	O	O
 sijn	O	O	O
 wij	O	O	O
-gepasseert	I-event	I-event	O
+gepasseert	O	I-event	O
 het	O	O	O
 Eijlant	O	O	O
 palma	O	O	O
@@ -200,10 +200,10 @@ ons	O	O	O
 meninchte	O	O	O
 van	O	O	O
 bocken	O	O	O
-geschoncken	O	I-event	O
+geschoncken	I-event	I-event	O
 oock	O	O	O
 andren	O	O	O
-vernersinge	O	O	O
+vernersinge	I-event	O	O
 ende	O	O	O
 is	O	O	O
 aen	O	O	O
@@ -260,7 +260,7 @@ hebben	O	O	O
 wij	O	O	O
 een	O	O	O
 missiue	O	O	O
-gelaten	I-event	I-event	O
+gelaten	O	I-event	O
 om	O	O	O
 aen	O	O	O
 de	O	O	O
@@ -325,7 +325,7 @@ van	O	O	O
 Nijo	O	O	O
 de	O	O	O
 maijo	O	O	O
-tseijl	O	I-event	O
+tseijl	I-event	I-event	O
 gegaen	I-event	I-event	O
 ende	O	O	O
 den	O	O	O
@@ -396,7 +396,7 @@ aduijs	O	O	O
 was	O	O	O
 is	O	O	O
 opt	O	O	O
-versoeck	I-event	I-event	I-event
+versoeck	O	I-event	I-event
 van	O	O	O
 den	O	O	O
 Commandeur	O	O	O
@@ -427,7 +427,7 @@ graden	O	O	O
 zijn	O	O	O
 jerencon	O	I-event	O
 :	O	I-event	O
-treert	I-event	I-event	O
+treert	O	I-event	O
 den	O	O	O
 zeewolff	O	O	O
 die	O	O	O
@@ -460,7 +460,7 @@ geaffligeert	O	I-event	O
 met	O	O	O
 scheurbins	O	I-event	O
 ende	O	O	O
-vonden	I-event	I-event	O
+vonden	O	I-event	O
 alhier	O	O	O
 den	O	O	O
 Zeewolff	O	O	O
@@ -554,7 +554,7 @@ eersten	O	O	O
 peden	O	O	O
 wint	O	O	O
 te	O	O	O
-vernorderen	O	I-event	O
+vernorderen	I-event	I-event	O
 naer	O	O	O
 de	O	O	O
 Cust	O	O	O

@@ -56,7 +56,7 @@ met	O	O	O
 gemelte	O	O	O
 —	O	O	O
 schepen	O	O	O
-gaen	I-event	I-event	O
+gaen	O	I-event	O
 over	O	I-event	O
 927	O	O	O
 .	O	O	O
@@ -94,8 +94,8 @@ vloote	O	O	O
 tot	O	O	O
 gouverno	O	O	O
 ter	I-event	O	O
-hant	O	O	O
-gestelt	O	O	O
+hant	I-event	O	O
+gestelt	I-event	O	O
 gaet	O	I-event	O
 hier	O	I-event	O
 neven	O	I-event	O
@@ -117,14 +117,14 @@ en	O	O	O
 recommandatie	O	O	O
 op	O	O	O
 de	O	O	O
-voijagie	O	I-event	I-event
+voijagie	I-event	I-event	I-event
 —	O	O	O
-gegeven	O	O	O
+gegeven	I-event	O	O
 ij	O	O	O
 ,	O	O	O
 bedragende	O	O	O
 haer	O	O	O
-ingeladen	O	I-event	O
+ingeladen	I-event	I-event	O
 Cargasoen	O	O	O
 :	O	O	O
 tsamen	O	O	O
@@ -265,7 +265,7 @@ groote	O	O	O
 Srtilten	O	O	O
 lange	O	O	O
 onderwegen	O	I-event	O
-geweest	O	O	O
+geweest	I-event	O	O
 ,	O	O	O
 en	O	O	O
 :	O	O	O
@@ -287,7 +287,7 @@ geve	O	I-event	O
 in	O	O	O
 toecomende	O	O	O
 vroeger	O	O	O
-verschijnen	I-event	O	O
+verschijnen	O	O	O
 ,	O	O	O
 op	O	O	O
 dat	O	O	O
@@ -316,7 +316,7 @@ Compagnie	O	O	O
 aender	O	O	O
 selver	O	O	O
 spoedige	O	O	O
-arive	O	I-event	O
+arive	I-event	I-event	O
 in	O	O	O
 't	O	O	O
 patria	O	O	O
@@ -369,7 +369,7 @@ te	O	O	O
 verhandelen	O	O	O
 sulcx	O	O	O
 sedert	O	O	O
-geoffresseert	O	O	O
+geoffresseert	I-event	O	O
 en	O	O	O
 voorgecomen	O	O	O
 hij	O	O	O
@@ -419,7 +419,7 @@ t	O	O	O
 sasvangent	O	O	O
 met	O	O	O
 een	O	O	O
-Cargasoen	O	O	O
+Cargasoen	I-event	O	O
 van	O	O	O
 ƒ	O	O	O
 58747„1„15	O	O	O
@@ -438,8 +438,8 @@ buijten	O	O	O
 ordre	O	I-event	I-event
 —	O	O	O
 -	O	O	O
-geproclameerde	O	I-event	O
-Oorloge	O	I-event	O
+geproclameerde	I-event	I-event	O
+Oorloge	I-event	I-event	O
 tegen	O	O	O
 den	O	O	O
 Conincq	O	O	O
@@ -466,7 +466,7 @@ Raija	O	O	O
 Singa	O	O	O
 in	O	O	O
 voorige	O	O	O
-aliantie	I-event	I-event	I-event
+aliantie	O	I-event	I-event
 ene	O	O	O
 vruntschap	O	I-event	I-event
 sien	O	O	O
@@ -491,7 +491,7 @@ de	O	O	O
 —	O	O	O
 Portugesen	O	O	O
 te	O	O	O
-defenderen	O	I-event	O
+defenderen	I-event	I-event	O
 ,	O	O	O
 ende	O	O	O
 in	O	O	O
@@ -504,7 +504,7 @@ voor	O	O	O
 de	O	O	O
 Compe	O	O	O
 temogen	O	O	O
-behouden	O	O	O
+behouden	I-event	O	O
 ,	O	O	O
 als	O	O	O
 andere	O	O	O
@@ -547,7 +547,7 @@ ene	O	O	O
 ordre	O	I-event	I-event
 te	O	O	O
 gemoet	O	O	O
-sien	I-event	O	O
+sien	O	O	O
 ,	O	O	O
 om	O	O	O
 ons	O	O	O
@@ -573,7 +573,7 @@ bij	O	O	O
 Instructie	O	O	O
 in	O	O	O
 mandato	O	O	O
-gegeven	O	O	O
+gegeven	I-event	O	O
 ende	O	O	O
 aenden	O	O	O
 gouverneur	O	O	O
@@ -738,7 +738,7 @@ verseeckeringhe	O	O	O
 dat	O	O	O
 bij	O	O	O
 vreedige	O	I-event	O
-possessie	I-event	I-event	O
+possessie	O	I-event	O
 Iaarlijex	O	O	O
 ruijm	O	O	O
 1000	O	O	O
@@ -808,7 +808,7 @@ Ceijlon	O	O	O
 jaarlijer	O	O	O
 comen	O	O	I-event
 te	O	O	O
-jmporteren	O	O	O
+jmporteren	I-event	O	O
 niet	O	O	O
 alleen	O	O	O
 ruijm	O	O	O
@@ -828,7 +828,7 @@ goede	O	O	O
 somme	O	O	O
 voorde	O	O	O
 participanten	O	O	O
-overschieten	I-event	O	O
+overschieten	O	O	O
 ,	O	O	O
 doch	O	O	O
 wij	O	O	O
@@ -889,7 +889,7 @@ selfse	O	O	O
 mochten	O	O	O
 comen	O	O	I-event
 te	O	O	O
-verlaten	O	O	I-event
+verlaten	I-event	O	I-event
 ,	O	O	O
 gelijq	O	O	O
 reede	O	O	O
@@ -973,14 +973,14 @@ geen	O	O	O
 groote	O	O	O
 quantiteijt	O	O	O
 Camel	O	O	O
-becomen	I-event	I-event	I-event
+becomen	O	I-event	I-event
 1o	O	O	O
 is	O	O	O
 Ceijlon	O	O	O
 voor	O	O	O
 ons	O	O	O
 —	O	O	O
-opnut	I-event	O	O
+opnut	O	O	O
 ,	O	O	O
 soo	O	O	O
 dat	O	O	O
@@ -994,7 +994,7 @@ van	O	O	O
 des	O	O	O
 Coninghs	O	O	O
 debit	O	I-event	I-event
-voldaen	O	O	O
+voldaen	I-event	O	O
 waren	O	O	O
 ,	O	O	O
 ende	O	O	O
@@ -1044,7 +1044,7 @@ deportugesen	O	O	O
 op	O	O	O
 Ceijlon	O	O	O
 tesamen	O	O	O
-resideren	I-event	I-event	O
+resideren	O	I-event	O
 salt	O	O	O
 minaermeer	O	O	O
 welgaen	O	O	O
@@ -1065,8 +1065,8 @@ en	O	O	O
 .	O	O	O
 het	O	O	O
 Caneel	O	O	O
-schillen	O	O	O
-verhinderen	O	I-event	O
+schillen	I-event	O	O
+verhinderen	I-event	I-event	O
 maer	O	O	O
 sich	O	O	O
 met	O	O	O
@@ -1098,7 +1098,7 @@ mede	O	O	O
 van	O	I-event	O
 cant	O	I-event	O
 te	O	I-event	O
-helpen	I-event	I-event	O
+helpen	O	I-event	O
 ,	O	O	O
 dewijle	O	O	O
 wel	O	O	O
@@ -1120,17 +1120,17 @@ portugesen	O	O	O
 oock	O	O	O
 te	O	O	O
 seert	O	O	O
-verbittert	O	O	O
+verbittert	I-event	O	O
 om	O	O	O
 desaacke	O	I-event	O
 met	O	I-event	O
 ons	O	I-event	O
 ten	O	I-event	O
 goeden	O	I-event	O
-aen	O	I-event	O
+aen	I-event	I-event	O
 te	O	I-event	O
 —	O	I-event	O
-leggen	I-event	I-event	O
+leggen	O	I-event	O
 ,	O	O	O
 maer	O	O	O
 sullen	O	O	O
@@ -1144,7 +1144,7 @@ van	O	O	O
 Raija	O	O	O
 singa	O	O	O
 onse	O	O	O
-devalisatie	O	I-event	O
+devalisatie	I-event	I-event	O
 mede	O	O	O
 trachten	O	O	O
 te	O	O	O
@@ -1156,7 +1156,7 @@ metter	O	O	O
 tijt	O	O	O
 weder	O	O	O
 alleen	O	I-event	O
-meester	O	I-event	O
+meester	I-event	I-event	O
 van	O	O	O
 Ceijlon	O	O	O
 te	O	O	O
@@ -1166,7 +1166,7 @@ dat	O	O	O
 ons	O	O	O
 —	O	O	O
 wel	O	O	O
-versoeckeren	I-event	O	O
+versoeckeren	O	O	O
 mogen	O	O	O
 ,	O	O	O
 ende	O	O	O
@@ -1195,7 +1195,7 @@ ordre	O	O	I-event
 metten	O	O	O
 eersten	O	O	O
 sullen	O	O	O
-imwachten	I-event	O	O
+imwachten	O	O	O
 ,	O	O	O
 T	O	O	O
 is	O	O	O
@@ -1235,7 +1235,7 @@ totten	O	I-event	O
 oorlogh	I-event	I-event	I-event
 tegen	O	I-event	O
 ons	O	I-event	O
-op	O	I-event	O
+op	I-event	I-event	O
 te	O	I-event	O
 hilsen	I-event	I-event	O
 ,	O	O	O
@@ -1298,8 +1298,8 @@ daer	O	O	O
 van	O	O	O
 een	O	O	O
 publijcq	O	O	O
-Contract	O	O	O
-temaecken	I-event	O	O
+Contract	I-event	O	O
+temaecken	O	O	O
 ,	O	O	O
 te	O	O	O
 meer	O	O	O
@@ -1316,8 +1316,8 @@ Raija	O	O	O
 Pinga	O	O	O
 tselve	O	O	O
 —	O	O	O
-ter	O	O	O
-ooren	O	O	O
+ter	I-event	O	O
+ooren	I-event	O	O
 comen	I-event	O	I-event
 ,	O	O	O
 ende	O	O	O
@@ -1405,7 +1405,7 @@ alsoo	O	O	O
 gedaene	O	O	O
 saecken	O	O	O
 geen	O	O	O
-koer	I-event	O	O
+koer	O	O	O
 nemen	O	O	O
 ,	O	O	O
 maer	O	O	O
@@ -1435,7 +1435,7 @@ vande	O	O	O
 —	O	O	O
 portugesen	O	O	O
 den	O	O	O
-oorloge	I-event	O	I-event
+oorloge	O	O	I-event
 tegens	O	O	O
 ons	O	O	O
 soude	O	O	O
@@ -1594,14 +1594,14 @@ Conincq	O	O	O
 Raija	O	O	O
 Singa	O	O	O
 den	O	I-event	O
-oorloge	I-event	I-event	I-event
+oorloge	O	I-event	I-event
 tegen	O	I-event	O
 de	O	I-event	O
 Comp	O	I-event	O
 :	O	I-event	O
 e	O	I-event	O
 heeft	O	I-event	O
-aengenomen	O	I-event	O
+aengenomen	I-event	I-event	O
 ,	O	O	O
 ende	O	O	O
 dat	O	O	O
@@ -1662,10 +1662,10 @@ anderen	O	O	O
 in	O	O	O
 —	O	O	O
 goede	O	O	O
-verteeckeninge	I-event	O	O
+verteeckeninge	O	O	O
 naer	O	O	O
 Negombo	O	O	O
-te	I-event	O	O
+te	O	O	O
 retireren	I-event	I-event	O
 ,	O	O	O
 mo	O	O	O
@@ -1689,7 +1689,7 @@ met	O	O	O
 al	O	O	O
 het	O	O	O
 volcq	O	O	O
-laten	O	O	O
+laten	I-event	O	O
 massacreren	I-event	I-event	O
 ,	O	O	O
 daer	O	O	O
@@ -1797,7 +1797,7 @@ de	O	O	O
 —	O	O	O
 Portugiesen	O	O	O
 dapper	O	O	O
-gloueren	O	O	O
+gloueren	I-event	O	O
 en	O	O	O
 :	O	O	O
 bebben	O	O	O
@@ -1854,10 +1854,10 @@ selven	O	O	O
 —	O	O	O
 weder	O	O	O
 in	O	O	O
-aliantie	I-event	I-event	I-event
+aliantie	O	I-event	I-event
 en	O	O	O
 vruntschap	O	I-event	I-event
-te	O	O	O
+te	I-event	O	O
 comen	I-event	O	I-event
 ,	O	O	O
 soo	O	O	O
@@ -1876,7 +1876,7 @@ uijt	O	O	O
 sijn	O	O	O
 antwoorde	O	O	O
 cunnen	O	O	O
-affmeten	I-event	O	O
+affmeten	O	O	O
 ,	O	O	O
 soo	O	O	O
 hebben	O	O	O
@@ -1885,7 +1885,7 @@ anders	O	O	O
 als	O	O	O
 een	O	O	O
 Continuele	O	O	O
-oorloge	I-event	I-event	I-event
+oorloge	O	I-event	I-event
 metten	O	O	O
 selven	O	O	O
 te	O	O	O
@@ -1945,7 +1945,7 @@ ende	O	O	O
 andere	O	O	O
 nootwendigheden	O	O	O
 te	O	O	O
-beletten	I-event	O	O
+beletten	O	O	O
 ,	O	O	O
 dat	O	O	O
 tot	O	O	O
@@ -2068,7 +2068,7 @@ voor	O	O	O
 eerst	O	O	O
 :	O	O	O
 niet	O	O	O
-teverwachten	I-event	O	O
+teverwachten	O	O	O
 ,	O	O	O
 't	O	O	O
 vorder	O	O	O
@@ -2219,7 +2219,7 @@ van	O	O	O
 daer	O	O	O
 op	O	O	O
 mette	O	O	O
-compote	I-event	I-event	O
+compote	O	I-event	O
 vande	O	O	O
 vaderlantsche	O	O	O
 schepen	O	O	O
@@ -2314,7 +2314,7 @@ der	O	O	O
 portugesen	O	O	O
 te	O	O	O
 cunnen	O	O	O
-bestaan	I-event	O	O
+bestaan	O	O	O
 ,	O	O	O
 waar	O	O	O
 t	O	O	O
@@ -2392,7 +2392,7 @@ onder	O	O	O
 sijn	O	O	O
 volcq	O	O	O
 ende	O	O	O
-gebrecq	I-event	O	O
+gebrecq	O	O	O
 van	O	O	O
 victualie	O	O	O
 naer	O	O	O
@@ -2429,7 +2429,7 @@ om	O	O	O
 sijn	O	O	O
 voornemen	I-event	O	O
 te	O	O	O
-vervolgen	I-event	O	O
+vervolgen	O	O	O
 ,	O	O	O
 dat	O	O	O
 ,	O	O	O
@@ -2444,7 +2444,7 @@ gale	O	O	O
 was	O	O	O
 alles	O	O	O
 in	O	O	O
-ruste	I-event	O	O
+ruste	O	O	O
 en	O	O	O
 .	O	O	O
 deCaneel	O	O	O
@@ -2476,7 +2476,7 @@ andere	O	O	O
 nootsijcheden	O	O	O
 noch	O	O	O
 wel	O	O	O
-versien	O	I-event	O
+versien	I-event	I-event	O
 ,	O	O	O
 wat	O	O	O
 naerder	O	O	O
@@ -2503,7 +2503,7 @@ beoogen	O	O	O
 daer	O	O	O
 toe	O	O	O
 ons	O	O	O
-reteeren/.	I-event	O	O
+reteeren/.	O	O	O
 Den	O	O	O
 Coromandelsen	O	O	O
 handel	O	I-event	I-event
@@ -2513,7 +2513,7 @@ uEd	O	O	O
 :	O	O	O
 marinen	O	O	O
 buijten	O	O	O
-belastingh	O	O	O
+belastingh	I-event	O	O
 van	O	O	O
 Intrest	O	O	O
 penningen	O	O	O

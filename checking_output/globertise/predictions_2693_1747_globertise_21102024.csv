@@ -125,7 +125,7 @@ zij	O	O	O
 geen	O	O	O
 reden	O	O	O
 van	O	O	O
-klagen	O	O	O
+klagen	I-event	O	O
 tot	O	O	O
 nog	O	O	O
 toe	O	O	O
@@ -151,7 +151,7 @@ toe	O	O	O
 geen	O	O	O
 hofs	O	O	O
 grooten	O	O	O
-opgedaan	O	I-event	O
+opgedaan	I-event	I-event	O
 ,	O	O	O
 al	O	O	O
 hoewel	O	O	O
@@ -171,7 +171,7 @@ dato	O	O	O
 ,	O	O	O
 tot	O	O	O
 nader	O	O	O
-ordre	O	O	I-event
+ordre	I-event	O	I-event
 van	O	O	O
 uwel	O	O	O
 Edele	O	O	O
@@ -180,7 +180,7 @@ agtb	O	O	O
 :	O	O	O
 zulx	O	O	O
 heb	O	O	O
-afgesegt	O	I-event	O
+afgesegt	I-event	I-event	O
 ,	O	O	O
 't	O	O	O
 verzoek	I-event	I-event	I-event
@@ -238,7 +238,7 @@ groot	O	O	O
 agtb	O	O	O
 :	O	O	O
 nader	O	O	O
-ordre	I-event	O	I-event
+ordre	O	O	I-event
 aanhouden	I-event	I-event	O
 en	O	O	O
 is	O	O	O
@@ -281,7 +281,7 @@ veel	O	O	O
 in	O	O	O
 al	O	O	O
 mijn	O	O	O
-vermogh	I-event	O	O
+vermogh	O	O	O
 is	O	O	O
 zorge	O	O	O
 voorte	O	O	O
@@ -332,7 +332,7 @@ voor	O	O	O
 derzelver	O	O	O
 zoo	O	O	O
 vaderlijke	O	O	O
-bewijsens	I-event	O	O
+bewijsens	O	O	O
 groote	O	O	O
 genegentheid	O	I-event	O
 t	O	O	O

@@ -101,7 +101,7 @@ twintigste	O	O	O
 maart	O	O	O
 in	O	O	O
 goeden	O	O	O
-staat	O	O	O
+staat	I-event	O	O
 aangekome	I-event	I-event	O
 op	O	O	O
 deese	O	O	O
@@ -171,7 +171,7 @@ noodige	O	O	O
 ,	O	O	O
 om	O	O	O
 haar	O	O	O
-reijs	I-event	I-event	I-event
+reijs	O	I-event	I-event
 te	O	O	O
 kunne	O	O	O
 vervordere	I-event	O	O
@@ -207,7 +207,7 @@ minste	O	O	O
 tijding	O	I-event	O
 daar	O	I-event	O
 van	O	I-event	O
-gehoort	I-event	I-event	O
+gehoort	O	I-event	O
 :	O	O	O
 De	O	O	O
 kortheijt	O	O	O
@@ -227,12 +227,12 @@ besorgen	I-event	O	O
 ,	O	O	O
 hebben	O	O	O
 mij	O	O	O
-belet	O	O	O
+belet	I-event	O	O
 om	O	O	O
-in	O	I-event	O
+in	I-event	I-event	O
 spectie	I-event	I-event	O
 te	O	I-event	O
-kunnen	I-event	I-event	O
+kunnen	O	I-event	O
 neemen	I-event	I-event	O
 ,	O	O	O
 soo	O	O	O
@@ -269,7 +269,7 @@ nette	O	O	O
 verklaring	O	O	O
 sal	O	I-event	O
 laaten	O	I-event	O
-weceo=	I-event	I-event	O
+weceo=	O	I-event	O
 men	O	I-event	O
 ,	O	O	O
 mij	O	O	O
@@ -350,9 +350,9 @@ aghtb	O	O	O
 :	O	O	O
 r	O	O	O
 eenige	O	I-event	O
-sarisfactie	I-event	I-event	O
+sarisfactie	O	I-event	O
 sullen	O	I-event	O
-genieten	I-event	I-event	O
+genieten	O	I-event	O
 ,	O	O	O
 in	O	O	O
 onse	O	O	O

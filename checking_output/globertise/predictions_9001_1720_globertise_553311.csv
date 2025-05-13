@@ -45,7 +45,7 @@ door	O	O	O
 den	O	O	O
 vlagge	O	O	O
 wagter	O	O	O
-gerapporteerd	O	O	O
+gerapporteerd	I-event	O	O
 ,	O	O	O
 dat	O	O	O
 '	O	O	O
@@ -87,7 +87,7 @@ Saturdag	O	O	O
 ,	O	O	O
 sogtens	O	O	O
 ,	O	O	O
-sag	O	O	O
+sag	I-event	O	O
 men	O	O	O
 de	O	O	O
 voorm	O	O	O
@@ -115,7 +115,7 @@ even	O	O	O
 nade	O	O	O
 middag	O	O	O
 daar	O	O	O
-ten	O	I-event	O
+ten	I-event	I-event	O
 ancker	I-event	I-event	I-event
 ;	O	O	O
 werdende	O	O	O
@@ -131,7 +131,7 @@ hier	O	O	O
 onder	O	O	O
 ,	O	O	O
 werd	O	O	O
-gedistingueerd	I-event	O	O
+gedistingueerd	O	O	O
 te	O	O	O
 —	O	O	O
 weten	O	O	O
@@ -160,7 +160,7 @@ scheepjes	O	O	O
 ofte	O	O	O
 eijgentlijk	O	O	O
 op	O	O	O
-geboeijde	I-event	O	O
+geboeijde	O	O	O
 pales	O	O	O
 ,	O	O	O
 gen	O	O	O
@@ -182,7 +182,7 @@ met	O	O	O
 :	O	O	O
 stucken	O	O	O
 en	O	O	O
-bemand	O	O	I-event
+bemand	I-event	O	I-event
 ,	O	O	O
 met	O	O	O
 80	O	O	O
@@ -219,7 +219,7 @@ met	O	O	O
 80	O	O	O
 :	O	O	O
 coppen	O	O	O
-bemandewijders	I-event	O	O
+bemandewijders	O	O	O
 :	O	O	O
 —	O	O	O
 een	O	O	O
@@ -264,7 +264,7 @@ tannanoor	O	O	O
 gesaiseerd	I-event	I-event	I-event
 ,	O	O	O
 en	O	O	O
-in	O	I-event	O
+in	I-event	I-event	O
 beslag	I-event	I-event	O
 genomen	I-event	I-event	O
 was	O	O	O
@@ -284,7 +284,7 @@ contrabande	O	O	O
 goederen	O	O	O
 ,	O	O	O
 in	O	O	O
-bevonden	I-event	I-event	O
+bevonden	O	I-event	O
 waaren	O	I-event	O
 ,	O	O	O
 als	O	O	O
@@ -347,7 +347,7 @@ goa	O	O	O
 en	O	O	O
 hebbende	O	I-event	O
 de	O	I-event	O
-wil	I-event	I-event	O
+wil	O	I-event	O
 na	O	O	O
 de	O	O	O
 cust	O	O	O
@@ -395,7 +395,7 @@ r	O	O	O
 commandeur	O	O	O
 komende	I-event	I-event	I-event
 ,	O	I-event	O
-seijden	O	O	O
+seijden	I-event	O	O
 expresselijk	O	O	O
 ,	O	O	O
 door	O	O	O
@@ -435,7 +435,7 @@ aan	O	O	O
 sijn	O	O	O
 E	O	O	O
 :	O	O	O
-gesz	O	O	O
+gesz	I-event	O	O
 :	O	O	O
 hadde	O	O	O
 ;	O	O	O
@@ -445,7 +445,7 @@ sij	O	O	O
 dan	O	O	O
 ook	O	O	O
 over	O	I-event	O
-reijkten	O	I-event	O
+reijkten	I-event	I-event	O
 en	O	O	O
 welke	O	O	O
 bij	O	O	O
@@ -537,7 +537,7 @@ ged	O	O	O
 :	O	O	O
 e	O	O	O
 adersjas	O	O	O
-gesaijseerd	I-event	I-event	O
+gesaijseerd	O	I-event	O
 scheepken	O	O	O
 als	O	O	O
 de	O	O	O
@@ -660,7 +660,7 @@ goa	O	O	O
 ,	O	O	O
 met	O	O	O
 de	O	O	O
-rescribtie	O	O	O
+rescribtie	I-event	O	O
 ,	O	O	O
 op	O	O	O
 des	O	O	O
@@ -670,7 +670,7 @@ bovengem	O	O	O
 :	O	O	O
 brief	O	O	O
 ,	O	O	O
-versterkt	I-event	O	O
+versterkt	O	O	O
 ,	O	O	O
 van	O	O	O
 eenige	O	O	O
@@ -698,7 +698,7 @@ morais	O	O	O
 expresselijk	O	O	O
 uijt	O	O	O
 eijgen	O	O	O
-beweginge	I-event	O	O
+beweginge	O	O	O
 ,	O	O	O
 tot	O	O	O
 blijk	O	O	O
@@ -709,7 +709,7 @@ in	O	O	O
 desen	O	O	O
 ,	O	O	O
 daar	O	O	O
-opgestelt	O	I-event	O
+opgestelt	I-event	I-event	O
 ,	O	I-event	O
 en	O	I-event	O
 toegerust	I-event	I-event	O
@@ -730,7 +730,7 @@ door	O	O	O
 den	O	O	O
 vlaggewagten	O	O	O
 berigt	I-event	O	O
-gedaan	O	O	O
+gedaan	I-event	O	O
 ,	O	O	O
 dat	O	O	O
 hij	O	O	O
@@ -738,7 +738,7 @@ een	O	O	O
 cloek	O	O	O
 schip	O	O	O
 in't	O	O	O
-gesigt	I-event	O	O
+gesigt	O	O	O
 hadde	O	O	O
 gekregen	I-event	O	O
 ,	O	O	O
@@ -760,7 +760,7 @@ een	O	O	O
 portugeese	O	O	O
 vlag	O	O	O
 ,	O	O	O
-ten	O	I-event	O
+ten	I-event	I-event	O
 ancker	I-event	I-event	I-event
 quam	I-event	O	O
 :	O	O	O
@@ -850,7 +850,7 @@ met	O	O	O
 42	O	O	O
 .	O	O	O
 stucken	O	O	O
-gemanteerd	I-event	I-event	O
+gemanteerd	O	I-event	O
 ,	O	O	O
 den	O	O	O
 2:e	O	O	O
@@ -894,13 +894,13 @@ haar	O	O	O
 ,	O	O	O
 wegens	O	O	O
 de	O	O	O
-parresse	O	O	O
+parresse	I-event	O	O
 van	O	O	O
 dito	O	O	O
 schip	O	O	O
 het	O	O	O
 contrarie	O	O	O
-berigtende	I-event	O	O
+berigtende	O	O	O
 ,	O	O	O
 quam	I-event	O	O
 men	O	O	O
@@ -958,13 +958,13 @@ was	O	O	O
 ;	O	O	O
 namen	O	O	O
 hun	O	O	O
-afscheijt	I-event	I-event	O
+afscheijt	O	I-event	O
 ,	O	O	O
 en	O	O	O
 gingen	O	I-event	O
 hun	O	O	O
 log	I-event	O	O
-is	I-event	O	O
+is	O	O	O
 in	O	O	O
 de	O	O	O
 stads	O	O	O
@@ -999,7 +999,7 @@ bij	O	O	O
 sijn	O	O	O
 E	O	O	O
 :	O	O	O
-versoekende	O	O	O
+versoekende	I-event	O	O
 hun	O	O	O
 afscheijd	O	O	O
 ,	O	O	O
@@ -1071,8 +1071,8 @@ avond	O	O	O
 ,	O	O	O
 met	O	O	O
 het	O	O	O
-voort	I-event	O	O
-sluijten	O	O	O
+voort	O	O	O
+sluijten	I-event	O	O
 te	O	O	O
 negen	O	O	O
 uuren	O	O	O
@@ -1084,7 +1084,7 @@ en	O	O	O
 na	O	O	O
 boord	O	O	O
 te	O	O	O
-mogen	I-event	O	O
+mogen	O	O	O
 varen	I-event	I-event	I-event
 ,	O	O	O
 toegestaan	I-event	O	O
@@ -1131,7 +1131,7 @@ landwind	O	O	O
 ,	O	O	O
 vande	O	O	O
 rheede	O	O	O
-saluerende	I-event	O	O
+saluerende	O	O	O
 de	O	O	O
 stad	O	O	O
 met	O	O	O
@@ -1201,7 +1201,7 @@ r	O	O	O
 commandeur	O	O	O
 daar	O	O	O
 van	O	O	O
-berigt	O	O	O
+berigt	I-event	O	O
 gedaan	O	O	O
 ,	O	O	O
 dog	O	O	O
@@ -1242,7 +1242,7 @@ van	O	O	O
 dit	O	O	O
 lusitaans	O	O	O
 loopje-	O	O	O
-nemende	O	O	O
+nemende	I-event	O	O
 ,	O	O	O
 bevond	O	O	O
 niet	O	O	O
@@ -1571,7 +1571,7 @@ hij	O	O	O
 sijn	O	O	O
 na	O	O	O
 mijn	O	O	O
-gijssing	I-event	O	O
+gijssing	O	O	O
 ,	O	O	O
 1	O	O	O
 :	O	O	O
@@ -1584,7 +1584,7 @@ verleden	O	O	O
 naght	O	O	O
 sijn	O	O	O
 het	O	O	O
-stilstant	I-event	O	O
+stilstant	O	O	O
 geweest	O	O	O
 door	O	O	O
 ongestadigh	O	O	O
@@ -1733,7 +1733,7 @@ oologs	O	O	O
 munitie	O	O	O
 ,	O	O	O
 tot	O	O	O
-versterckinge	I-event	I-event	O
+versterckinge	O	I-event	O
 ,	O	O	O
 van	O	O	O
 de	O	O	O
@@ -1747,7 +1747,7 @@ cannanoor	O	O	O
 derwaarts	O	O	O
 gesonden	I-event	I-event	I-event
 ;	O	O	O
-mede	I-event	O	O
+mede	O	O	O
 nemende	I-event	O	O
 eenige	O	O	O
 weijnige	O	O	O
@@ -1799,7 +1799,7 @@ van	O	O	O
 baijpin	O	O	O
 ,	O	O	O
 weder	O	O	O
-ten	O	I-event	O
+ten	I-event	I-event	O
 anker	I-event	I-event	I-event
 waren	O	O	O
 gekomen	I-event	I-event	I-event
@@ -1877,7 +1877,7 @@ verselt	I-event	O	O
 was	O	O	O
 :)	O	O	O
 te	O	O	O
-kennen	O	O	O
+kennen	I-event	O	O
 gaf	I-event	O	I-event
 ,	O	O	O
 door	O	O	O
@@ -1914,7 +1914,7 @@ twee	O	O	O
 cap	O	O	O
 :	O	O	O
 hier	O	O	O
-misdaan	O	O	O
+misdaan	I-event	O	O
 ,	O	O	O
 ofte	O	O	O
 wat	O	O	O
@@ -1926,7 +1926,7 @@ dat	O	O	O
 men	O	O	O
 haar	O	O	O
 quam	O	O	O
-aantehouden	O	I-event	O
+aantehouden	I-event	I-event	O
 :	O	O	O
 waarop	O	O	O
 sijn	O	O	O
@@ -1951,7 +1951,7 @@ inorais	O	O	O
 ,	O	O	O
 als	O	O	O
 wimpel	O	O	O
-voerder	I-event	O	O
+voerder	O	O	O
 /	O	O	O
 ter	O	O	O
 goeder	O	O	O
@@ -1966,7 +1966,7 @@ verbintenisse	O	I-event	O
 ,	O	I-event	O
 en	O	I-event	O
 cordate	O	I-event	O
-beloste	O	I-event	O
+beloste	I-event	I-event	O
 ,	O	O	O
 uijt	O	O	O
 cragte	O	O	O
@@ -2006,13 +2006,13 @@ ter	O	O	O
 rheede	O	O	O
 te	O	O	O
 blijven	I-event	I-event	I-event
-afwagten	O	I-event	O
+afwagten	I-event	I-event	O
 de	O	O	O
 finale	O	O	O
-dispositie	O	O	O
+dispositie	I-event	O	O
 ,	O	O	O
 en	O	O	O
-rescribtie	O	O	O
+rescribtie	I-event	O	O
 op	O	O	O
 onsen	O	O	O
 brief	O	O	O
@@ -2058,7 +2058,7 @@ ergernisse	O	O	O
 ,	O	O	O
 en	O	O	O
 groot	O	O	O
-eschat	O	O	O
+eschat	I-event	O	O
 der	O	O	O
 portugeesen	O	O	O
 natie	O	O	O
@@ -2071,7 +2071,7 @@ de	O	O	O
 morais	O	O	O
 ,	O	O	O
 desselvs	O	O	O
-accoord	O	I-event	O
+accoord	I-event	I-event	O
 ,	O	O	O
 met	O	O	O
 sijne	O	O	O
@@ -2095,7 +2095,7 @@ dien	O	O	O
 buijt	O	O	O
 ,	O	O	O
 in	O	O	O
-vilipendie	I-event	O	O
+vilipendie	O	O	O
 —	O	O	O
 eener	O	O	O
 vrije	O	O	O
@@ -2104,7 +2104,7 @@ haven	O	O	O
 of	O	O	O
 rleede	O	O	O
 ,	O	O	O
-sogt	I-event	O	O
+sogt	O	O	O
 door	I-event	I-event	O
 tegaan	I-event	I-event	O
 uijt	O	O	O
@@ -2133,7 +2133,7 @@ gracia	O	O	O
 mitsg	O	O	O
 =	O	O	O
 rs	O	O	O
-versekeringe	I-event	I-event	O
+versekeringe	O	I-event	O
 van	O	O	O
 adersjas	O	O	O
 vaartuijg	O	O	O
@@ -2186,7 +2186,7 @@ aan	O	O	O
 dit	O	O	O
 snode	O	O	O
 wan	O	O	O
-gedrag	O	O	O
+gedrag	I-event	O	O
 :)	O	O	O
 wilde	O	I-event	O
 laten	O	I-event	O
@@ -2260,7 +2260,7 @@ rheede	O	O	O
 ,	O	O	O
 was	O	O	O
 ,	O	O	O
-gecommuniceerd	O	I-event	O
+gecommuniceerd	I-event	I-event	O
 ge=	O	O	O
 worden	O	O	O
 .	O	O	O
@@ -2323,7 +2323,7 @@ waaren	O	O	O
 tot	O	O	O
 renforcement	I-event	I-event	O
 ;	O	O	O
-varende	I-event	O	O
+varende	O	O	O
 wijders	O	O	O
 ,	O	O	O
 met	O	O	O
@@ -2351,11 +2351,11 @@ ende	O	O	O
 desselvs	O	O	O
 ladinge	O	I-event	O
 verbeurd	I-event	O	O
-gemaekt	O	O	O
+gemaekt	I-event	O	O
 hebbende	O	O	O
 ,	O	O	O
 oversulx	O	O	O
-confisquabel	I-event	I-event	O
+confisquabel	O	I-event	O
 was	O	O	O
 ;	O	O	O
 en	O	O	O
@@ -2368,7 +2368,7 @@ snoeslaan	O	O	O
 duijdelijk	O	O	O
 te	O	O	O
 verstaan	O	O	O
-gegeven	I-event	O	O
+gegeven	O	O	O
 wierd	O	O	O
 ,	O	O	O
 dat	O	O	O
@@ -2442,7 +2442,7 @@ te	O	O	O
 considereren	O	O	O
 waren	O	O	O
 als	O	O	O
-onderdanen	I-event	I-event	O
+onderdanen	O	I-event	O
 van	O	O	O
 den	O	O	O
 nederlandsen	O	O	O
@@ -2478,10 +2478,10 @@ de	O	O	O
 gantsche	O	O	O
 Indiase	O	O	O
 zee	O	O	O
-toequam	I-event	O	O
+toequam	O	O	O
 ,	O	O	O
 te	O	O	O
-moeten	I-event	I-event	O
+moeten	O	I-event	O
 nemen	I-event	I-event	O
 ;	O	O	O
 —	O	O	O
@@ -2546,7 +2546,7 @@ holl	O	O	O
 comp	O	O	O
 :	O	O	O
 ,	O	O	O
-voegde	O	O	O
+voegde	I-event	O	O
 daar	O	O	O
 nog	O	O	O
 toe	O	O	O
@@ -2585,7 +2585,7 @@ verclaren	O	O	O
 of	O	O	O
 de	O	O	O
 —	O	O	O
-sinistre	O	O	O
+sinistre	I-event	O	O
 vervoeringe	I-event	I-event	O
 van	O	O	O
 adersjas	O	O	O
@@ -2640,7 +2640,7 @@ het	O	O	O
 op	O	O	O
 een	O	O	O
 anderpraatje	O	O	O
-tebrengen	O	O	O
+tebrengen	I-event	O	O
 de	O	O	O
 voorm	O	O	O
 :	O	O	O
@@ -2664,7 +2664,7 @@ wierd	O	I-event	O
 hier	O	O	O
 door	O	O	O
 occasie	O	O	O
-gesuppediteert	O	O	O
+gesuppediteert	I-event	O	O
 ,	O	O	O
 om	O	O	O
 haar	O	O	O
@@ -2673,7 +2673,7 @@ te	O	O	O
 thoonen	O	O	O
 over	O	O	O
 het	O	O	O
-subit	O	O	O
+subit	I-event	O	O
 depart	I-event	O	I-event
 van	O	O	O
 voorm	O	O	O
@@ -2692,13 +2692,13 @@ weijnige	O	O	O
 dagen	O	O	O
 te	O	O	O
 —	O	O	O
-wagten	I-event	O	O
+wagten	O	O	O
 ,	O	O	O
 tot	O	O	O
 dat	O	O	O
 het	O	O	O
 tegemoet	O	O	O
-gesien	O	O	O
+gesien	I-event	O	O
 werdende	O	O	O
 bescheijd	O	O	O
 van	O	O	O
@@ -2711,7 +2711,7 @@ was	O	O	O
 aangebragt	I-event	I-event	O
 :	O	O	O
 dit	O	O	O
-stak	O	O	O
+stak	I-event	O	O
 den	O	O	O
 lieutenant	O	O	O
 so	O	O	O
@@ -2732,11 +2732,11 @@ evengem	O	O	O
 twee	O	O	O
 aangehoudene	O	I-event	O
 capitainen	O	O	O
-uijtvoer	O	O	O
+uijtvoer	I-event	O	O
 :	O	O	O
 wij	O	O	O
 hebben	O	O	O
-ordre	O	O	I-event
+ordre	I-event	O	I-event
 van	O	O	O
 zijn	O	O	O
 excell	O	O	O
@@ -2745,7 +2745,7 @@ den	O	O	O
 vicerooij	O	O	O
 om	O	O	O
 souder	O	O	O
-vertoeven	O	O	O
+vertoeven	I-event	O	O
 ,	O	O	O
 met	O	O	O
 de	O	O	O
@@ -2825,7 +2825,7 @@ h	O	O	O
 =	O	O	O
 r	O	O	O
 commandeur	O	O	O
-werdende	I-event	O	O
+werdende	O	O	O
 ,	O	O	O
 haalde	I-event	O	O
 een	O	O	O
@@ -2855,13 +2855,13 @@ antwoorden	O	O	I-event
 maar	O	O	O
 dat	O	O	O
 wierde	O	O	O
-afgewerkt	O	O	O
+afgewerkt	I-event	O	O
 ,	O	O	O
 en	O	O	O
 gedeclineert	O	O	O
 ,	O	O	O
 onder	O	O	O
-verclaringe	I-event	O	O
+verclaringe	O	O	O
 dat	O	O	O
 wij	O	O	O
 van	O	O	O
@@ -2878,7 +2878,7 @@ verstaan	O	O	O
 ,	O	O	O
 indorso	O	O	O
 onser	O	O	O
-pascedulle	I-event	O	O
+pascedulle	O	O	O
 ,	O	O	O
 of	O	O	O
 sij	O	O	O
@@ -2902,7 +2902,7 @@ den	O	O	O
 lieutenant	O	O	O
 met	O	O	O
 eenen	O	O	O
-bedankt	O	O	O
+bedankt	I-event	O	O
 voor	O	O	O
 de	O	O	O
 boodschap	O	O	O
@@ -2941,7 +2941,7 @@ gedoente	I-event	I-event	O
 aen	O	O	O
 den	O	O	O
 vicerooij	O	O	O
-teclagen	O	O	O
+teclagen	I-event	O	O
 ;	O	O	O
 —	O	O	O
 ook	O	O	O
@@ -2965,7 +2965,7 @@ in't	O	O	O
 bijsonder	O	O	O
 te	O	O	O
 doen	O	O	O
-bedancken	O	O	O
+bedancken	I-event	O	O
 wegens	O	O	O
 d'eere	O	O	O
 ,	O	O	O
@@ -2994,13 +2994,13 @@ bewaren	I-event	O	O
 voor	O	O	O
 een	O	O	O
 sekere	O	O	O
-dood	O	O	I-event
+dood	I-event	O	I-event
 ,	O	O	O
 hem	O	O	O
 ,	O	O	O
 door	O	O	O
 de	O	O	O
-desseijnen	O	O	O
+desseijnen	I-event	O	O
 van	O	O	O
 adersjas	O	O	O
 bediendens	O	O	O
@@ -3043,7 +3043,7 @@ maken	O	O	O
 van	O	O	O
 wat	O	O	O
 eerlijken	O	O	O
-inborst	O	O	O
+inborst	I-event	O	O
 hij	O	O	O
 was	O	O	O
 .	O	O	O
@@ -3065,7 +3065,7 @@ afscheijt	O	O	O
 ,	O	O	O
 dat	O	O	O
 hem	O	O	O
-gegeven	I-event	O	O
+gegeven	O	O	O
 wierd	O	O	O
 ,	O	O	O
 en	O	O	O
@@ -3104,7 +3104,7 @@ Woensdag	O	O	O
 '	O	O	O
 sogtends	O	O	O
 vroeg	O	O	O
-rapporteerd	O	O	O
+rapporteerd	I-event	O	O
 den	O	O	O
 vlaggewagter	O	O	O
 ,	O	O	O
@@ -3217,7 +3217,7 @@ waarmede	O	O	O
 uw	O	O	O
 excellentie	O	O	O
 sig	O	O	O
-expliceerd	O	O	O
+expliceerd	I-event	O	O
 over	O	O	O
 het	O	O	O
 bekende	O	O	O

@@ -20,13 +20,13 @@ Hendrik	O	O	O
 Breton	O	O	O
 op	O	O	O
 deszelfs	O	O	O
-heen	I-event	O	O
+heen	O	O	O
 en	O	O	O
 terug	I-event	O	O
-reizemiegaders	I-event	I-event	O
+reizemiegaders	O	I-event	O
 verblijf	I-event	I-event	I-event
 aldaar	O	O	O
-geadsisteert	O	O	O
+geadsisteert	I-event	O	O
 door	O	O	O
 den	O	O	O
 oud	O	O	O
@@ -153,7 +153,7 @@ Papieren	O	O	O
 tot	O	O	O
 het	O	O	O
 in't	O	O	O
-voeren	O	O	O
+voeren	I-event	O	O
 deezer	O	O	O
 Commissie	O	O	O
 gehoorende	O	O	I-event
@@ -238,7 +238,7 @@ in	O	O	O
 de	O	O	O
 kuil	O	O	O
 gerangeert	I-event	O	O
-staande	O	I-event	O
+staande	I-event	I-event	O
 granadiers	O	O	O
 het	O	O	O
 geweer	O	O	O
@@ -317,7 +317,7 @@ de	O	O	O
 winpel	O	O	O
 daaronder	O	O	O
 bij	O	O	O
-gemaakt	O	O	O
+gemaakt	I-event	O	O
 en	O	O	O
 de	O	O	O
 Heeren	O	O	O
@@ -325,7 +325,7 @@ gecommitteerden	O	O	O
 met	O	O	O
 17	O	O	O
 schoten	O	O	O
-verwellekomt	I-event	O	O
+verwellekomt	O	O	O
 zijnde	O	O	O
 ,	O	O	O
 salueerde	I-event	O	O
@@ -355,7 +355,7 @@ het	O	O	O
 onder	O	O	O
 de	O	O	O
 Commissie	O	O	O
-gehoorende	O	I-event	I-event
+gehoorende	I-event	I-event	I-event
 schip	O	O	O
 's	O	O	O
 Landskroon	O	O	O
@@ -370,9 +370,9 @@ men	O	O	O
 ruim	O	O	O
 een	O	O	O
 uur	O	O	O
-gewagt	I-event	O	O
+gewagt	O	O	O
 hadde	O	O	O
-quamen	O	I-event	I-event
+quamen	I-event	I-event	I-event
 de	O	O	O
 door	O	O	O
 den	O	O	O
@@ -388,7 +388,7 @@ den	O	O	O
 Heer	O	O	O
 Commissaris	O	O	O
 expres	O	O	O
-afgezonden	O	I-event	O
+afgezonden	I-event	I-event	O
 gezanten	O	O	O
 ,	O	O	O
 vermits	O	O	O
@@ -440,7 +440,7 @@ hun	O	O	O
 Ed	O	O	O
 =	O	O	O
 e	O	O	O
-transport	I-event	I-event	I-event
+transport	O	I-event	I-event
 ,	O	O	O
 met	O	O	O
 hunne	O	O	O
@@ -454,7 +454,7 @@ zonder	O	O	O
 gecommitteerden	O	O	O
 ten	O	O	O
 hunne	O	O	O
-geleide	O	O	O
+geleide	I-event	O	O
 ,	O	O	O
 direct	O	O	O
 van	O	O	O
@@ -516,10 +516,10 @@ geweer	O	O	O
 in	O	O	O
 de	O	O	O
 kuil	O	O	O
-gestaen	I-event	I-event	O
+gestaen	O	I-event	O
 ,	O	O	O
 onder	O	I-event	O
-commando	I-event	I-event	I-event
+commando	O	I-event	I-event
 van	O	O	O
 een	O	O	O
 sergeant	O	O	O
@@ -533,7 +533,7 @@ met	O	O	O
 versnaperingen	O	O	O
 en	O	O	O
 Thee	O	O	O
-onthaald	O	I-event	O
+onthaald	I-event	I-event	O
 wezende	O	O	O
 ,	O	O	O
 zijn	O	O	O
@@ -599,7 +599,7 @@ wel	O	O	O
 Ed	O	O	O
 :	O	O	O
 le	O	O	O
-vertrek	I-event	I-event	I-event
+vertrek	O	I-event	I-event
 weder	O	O	O
 24	O	O	O
 granadiers	O	O	O
@@ -634,7 +634,7 @@ spontor	O	O	O
 ,	O	O	O
 het	O	O	O
 geweer	O	O	O
-presenteerden	O	O	O
+presenteerden	I-event	O	O
 .	O	O	O
 Na	O	O	O
 Hun	O	O	O
@@ -674,7 +674,7 @@ dorwaijende	O	O	O
 wierd	O	O	O
 het	O	I-event	O
 anker	O	I-event	I-event
-geligt	I-event	I-event	I-event
+geligt	O	I-event	I-event
 en	O	O	O
 gingen	O	O	O
 oms	O	O	O
@@ -693,7 +693,7 @@ de	O	O	O
 olijftak	O	O	O
 ,	O	O	O
 beide	O	O	O
-gehoorende	O	I-event	I-event
+gehoorende	I-event	I-event	I-event
 het	O	O	O
 de	O	O	O
 Commissie	O	O	O
@@ -716,7 +716,7 @@ schoten	O	O	O
 dog	O	O	O
 wierden	O	O	O
 niet	O	O	O
-bedankt	I-event	O	O
+bedankt	O	O	O
 ,	O	O	O
 bij	O	O	O
 het	O	O	O
@@ -739,7 +739,7 @@ eerste	O	O	O
 met	O	O	O
 elf	O	O	O
 schooten	O	O	O
-gesalueert	I-event	O	O
+gesalueert	O	O	O
 ,	O	O	O
 dat	O	O	O
 met	O	O	O
@@ -752,7 +752,7 @@ half	O	O	O
 een	O	O	O
 uur	O	O	O
 nadermiddag	O	O	O
-kwam	I-event	I-event	O
+kwam	O	I-event	O
 men	O	O	O
 ,	O	O	O
 om	O	O	O
@@ -794,7 +794,7 @@ passeerden	O	I-event	I-event
 Onrust	O	O	O
 ,	O	O	O
 en	O	O	O
-kwamen	I-event	I-event	O
+kwamen	O	I-event	O
 op	O	O	O
 Zaturdag	O	O	O
 den	O	O	O
@@ -837,7 +837,7 @@ van	O	O	O
 11	O	O	O
 schooten	O	O	O
 wierd	O	O	O
-beantwoord	O	O	O
+beantwoord	I-event	O	O
 .	O	O	O
 Dingen	O	O	O
 vervolgens	O	O	O
@@ -882,7 +882,7 @@ zond	I-event	I-event	O
 den	O	O	O
 eersten	O	O	O
 Bantamsche	O	O	O
-afgezant	I-event	O	O
+afgezant	O	O	O
 met	O	O	O
 nome	O	O	O
 Adia	O	O	O
@@ -900,7 +900,7 @@ quartier	O	O	O
 voor	O	O	O
 vier	O	O	O
 uuren	O	O	O
-passeerde	O	I-event	O
+passeerde	I-event	I-event	O
 ,	O	O	O
 het	O	O	O
 Comp	O	O	O
@@ -922,7 +922,7 @@ Concordia	O	O	O
 met	O	O	O
 11	O	O	O
 wierden	O	O	O
-beantwoord	O	O	O
+beantwoord	I-event	O	O
 .	O	O	O
 Des	O	O	O
 avonds	O	O	O
@@ -938,7 +938,7 @@ bevasten	O	O	O
 groot	O	O	O
 Poeloe	O	O	O
 Madie	O	O	O
-ten	I-event	I-event	O
+ten	O	I-event	O
 anker	I-event	I-event	I-event
 „	O	O	O
 ,	O	O	O
@@ -989,7 +989,7 @@ den	O	O	O
 Heer	O	O	O
 Commissaris	O	O	O
 te	O	O	O
-verweldekomen	O	O	O
+verweldekomen	I-event	O	O
 bij	O	O	O
 welke	O	O	O
 geleegendheid	O	O	O
@@ -1005,7 +1005,7 @@ de	O	O	O
 kuijl	O	O	O
 gerangeert	I-event	O	O
 hebben	O	O	O
-gestaan	I-event	I-event	O
+gestaan	O	I-event	O
 ,	O	O	O
 die	O	O	O
 aldaar	O	O	O
@@ -1017,7 +1017,7 @@ twee	O	O	O
 roffels	O	O	O
 het	O	O	O
 geweer	O	O	O
-presenteerden	O	O	O
+presenteerden	I-event	O	O
 Een	O	O	O
 daar	O	O	O
 makewamn	O	I-event	O
@@ -1064,7 +1064,7 @@ twintig	O	O	O
 granadiers	O	O	O
 ,	O	O	O
 onder	O	I-event	O
-commando	I-event	I-event	I-event
+commando	O	I-event	I-event
 van	O	O	O
 den	O	O	O
 Capitain	O	O	O
@@ -1087,7 +1087,7 @@ in	O	O	O
 de	O	O	O
 kuil	O	O	O
 ,	O	O	O
-presenteerende	O	O	O
+presenteerende	I-event	O	O
 het	O	O	O
 gemeer	O	O	O
 onder	O	O	O
@@ -1215,7 +1215,7 @@ den	O	O	O
 Heer	O	O	O
 Commissarid	O	O	O
 zig	O	O	O
-plaatse	O	I-event	O
+plaatse	I-event	I-event	O
 op	O	I-event	O
 de	O	I-event	O
 regter	O	O	O
@@ -1252,7 +1252,7 @@ rang	O	O	O
 ondertusschen	O	O	O
 dat	O	O	O
 tot	O	O	O
-verwelkominge	O	I-event	O
+verwelkominge	I-event	I-event	O
 van	O	O	O
 den	O	O	O
 g'eligeerden	O	O	O
@@ -1263,7 +1263,7 @@ ui't	O	O	O
 't	O	O	O
 kanan	O	O	O
 wierden	O	O	O
-gedaan	I-event	O	O
+gedaan	O	O	O
 .	O	O	O
 Ook	O	O	O
 stonden	O	I-event	O
@@ -1279,7 +1279,7 @@ den	O	O	O
 Heer	O	O	O
 Commissoris	O	O	O
 niet	O	O	O
-uitgelogen	I-event	O	O
+uitgelogen	O	O	O
 sabels	O	O	O
 ,	O	O	O
 en	O	O	O
@@ -1302,10 +1302,10 @@ hebbende	O	O	O
 wierd	O	O	O
 het	O	O	O
 anker	O	I-event	I-event
-geligt	I-event	I-event	I-event
+geligt	O	I-event	I-event
 ,	O	O	O
 en	O	O	O
-ging	I-event	O	O
+ging	O	O	O
 men	O	O	O
 onderzeil	O	I-event	I-event
 wanneer	O	O	O
@@ -1366,7 +1366,7 @@ dat	O	O	O
 met	O	O	O
 een	O	O	O
 schip	O	O	O
-zeilde	I-event	I-event	O
+zeilde	O	I-event	O
 ,	O	O	O
 daar	O	O	O
 hij	O	O	O
@@ -1383,7 +1383,7 @@ verder	O	O	O
 ,	O	O	O
 onder	O	O	O
 het	O	O	O
-opzeilen	I-event	I-event	O
+opzeilen	O	I-event	O
 van	O	O	O
 de	O	O	O
 Bantamsche	O	O	O
@@ -1438,7 +1438,7 @@ en	O	O	O
 zijn	O	O	O
 Hoogheid	O	O	O
 teffens	O	O	O
-vergelukte	I-event	O	O
+vergelukte	O	O	O
 met	O	O	O
 zijn	O	O	O
 behoude	O	O	O
@@ -1488,14 +1488,14 @@ een	O	O	O
 different	O	O	O
 en	O	O	O
 amusant	O	O	O
-discours	O	O	O
+discours	I-event	O	O
 hielt	I-event	O	O
 ,	O	O	O
 waar	O	O	O
 na	O	O	O
 de	O	O	O
 tafel	O	O	O
-gedekt	I-event	O	O
+gedekt	O	O	O
 en	O	O	O
 voorzien	I-event	O	O
 wedrd	O	O	O
@@ -1559,7 +1559,7 @@ gedurende	O	O	O
 dit	O	O	O
 alles	O	O	O
 niet	O	O	O
-opgehouden	I-event	O	O
+opgehouden	O	O	O
 eenige	O	O	O
 fraaije	O	O	O
 airzjes	O	O	O
@@ -1588,7 +1588,7 @@ de	O	O	O
 bantamsche	O	O	O
 rhede	O	O	O
 het	O	I-event	O
-anker	I-event	I-event	I-event
+anker	O	I-event	I-event
 toegaan	I-event	I-event	O
 ,	O	O	O
 waar	O	O	O
@@ -1673,7 +1673,7 @@ van	O	O	O
 de	O	O	O
 grofte	O	O	O
 top	O	O	O
-waaijende	O	O	O
+waaijende	I-event	O	O
 vlag	O	O	O
 en	O	O	O
 wimpel	O	O	O
@@ -1768,7 +1768,7 @@ gestaan	I-event	I-event	O
 ok	O	O	O
 wierd	O	O	O
 de	O	O	O
-marsch	O	O	O
+marsch	I-event	O	O
 geslagen	I-event	O	O
 en	O	O	O
 met	O	O	O
@@ -1779,7 +1779,7 @@ Inde	O	O	O
 rivier	O	O	O
 komende	I-event	I-event	I-event
 ,	O	O	O
-stond	O	I-event	O
+stond	I-event	I-event	O
 de	O	I-event	O
 militie	O	O	O
 van	O	O	O
@@ -1850,7 +1850,7 @@ militie	O	O	O
 ,	O	O	O
 onder	O	O	O
 het	O	O	O
-slaan	O	O	O
+slaan	I-event	O	O
 van	O	O	O
 de	O	O	O
 marsch	O	O	O
@@ -1892,7 +1892,7 @@ ieder	O	O	O
 een	O	O	O
 kanon	O	O	O
 schoot	O	O	O
-gedaan	I-event	O	O
+gedaan	O	O	O
 zijnde	O	O	O
 ,	O	O	O
 wierd	O	O	O
@@ -1922,7 +1922,7 @@ van	O	O	O
 landskroon	O	O	O
 19	O	O	O
 schoten	O	O	O
-gedaan	I-event	O	O
+gedaan	O	O	O
 Na	O	O	O
 een	O	O	O
 en	O	O	O
@@ -1973,7 +1973,7 @@ van	O	I-event	O
 deszelvs	O	I-event	O
 Complimeent	O	I-event	O
 te	O	O	O
-rug	O	O	O
+rug	I-event	O	O
 te	O	I-event	O
 zullen	O	I-event	O
 komen	I-event	I-event	I-event
@@ -2054,7 +2054,7 @@ van	O	O	O
 Bijland	O	O	O
 tot	O	O	O
 busten	O	O	O
-depoort	I-event	O	O
+depoort	O	O	O
 alwaar	O	O	O
 vervolgens	O	O	O
 in	O	O	O
@@ -2091,7 +2091,7 @@ morgens	O	O	O
 alvroeg	O	O	O
 na	O	O	O
 de	O	O	O
-welstant	O	O	O
+welstant	I-event	O	O
 van	O	O	O
 den	O	O	O
 Heer	O	O	O
@@ -2103,7 +2103,7 @@ den	O	O	O
 eerste	O	O	O
 te	O	O	O
 gelijk	O	O	O
-bekentmaken	O	O	I-event
+bekentmaken	I-event	O	I-event
 dat	O	O	O
 nog	O	O	O
 vermoijt	O	O	O
@@ -2119,7 +2119,7 @@ voeg	O	O	O
 zijn	O	O	O
 Compliment	O	I-event	O
 zoude	O	I-event	O
-komen	I-event	I-event	I-event
+komen	O	I-event	I-event
 afleggen	O	I-event	O
 als	O	O	O
 welhadde	O	O	O

@@ -101,7 +101,7 @@ twintigste	O	O	O
 maart	O	O	O
 in	O	O	O
 goeden	O	O	O
-staat	O	O	O
+staat	I-event	O	O
 aangekome	I-event	I-event	O
 op	O	O	O
 deese	O	O	O
@@ -155,7 +155,7 @@ om	O	O	O
 met	O	O	O
 deerste	O	O	O
 bequaame	O	O	O
-begeven	I-event	O	O
+begeven	O	O	O
 ,	O	O	O
 de	O	O	O
 Retour	O	I-event	O
@@ -229,11 +229,11 @@ hebben	O	O	O
 mij	O	O	O
 belet	I-event	O	O
 om	O	O	O
-in	O	I-event	O
+in	I-event	I-event	O
 spectie	I-event	I-event	O
 te	O	I-event	O
 kunnen	O	I-event	O
-neemen	I-event	I-event	O
+neemen	O	I-event	O
 ,	O	O	O
 soo	O	O	O
 van	O	O	O
@@ -273,7 +273,7 @@ weceo=	O	I-event	O
 men	O	I-event	O
 ,	O	O	O
 mij	O	O	O
-defererende	I-event	O	O
+defererende	O	O	O
 ,	O	O	O
 voor	O	O	O
 het	O	O	O
@@ -301,7 +301,7 @@ door	O	O	O
 haare	O	O	O
 missives	O	O	O
 hebben	O	I-event	O
-bekent	O	I-event	O
+bekent	I-event	I-event	O
 gemaakt	O	I-event	O
 .	O	O	O
 wint	O	O	O
@@ -352,7 +352,7 @@ r	O	O	O
 eenige	O	I-event	O
 sarisfactie	O	I-event	O
 sullen	O	I-event	O
-genieten	I-event	I-event	O
+genieten	O	I-event	O
 ,	O	O	O
 in	O	O	O
 onse	O	O	O
@@ -377,7 +377,7 @@ aghtb	O	O	O
 alle	O	O	O
 vergenoegingh	O	O	O
 te	O	O	O
-geven	I-event	O	I-event
+geven	O	O	I-event
 ,	O	O	O
 hebbende	O	O	O
 geen	O	O	O
@@ -417,7 +417,7 @@ protectie	O	O	O
 -	O	O	O
 des	O	O	O
 alderhoogste	O	O	O
-Gerecommandeert	O	I-event	O
+Gerecommandeert	I-event	I-event	O
 te	O	I-event	O
 hebbe	O	I-event	O
 sal	O	O	O

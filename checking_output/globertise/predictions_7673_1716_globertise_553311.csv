@@ -37,7 +37,7 @@ van	O	O	O
 twee	O	O	O
 Javanen	O	O	O
 ,	O	O	O
-geboortig	I-event	O	O
+geboortig	O	O	O
 van	O	O	O
 Caliegawee	O	O	O
 ,	O	O	O
@@ -71,15 +71,15 @@ Naija	O	O	O
 en	O	O	O
 patra	O	O	O
 ,	O	O	O
-geboortig	O	O	O
+geboortig	I-event	O	O
 van	O	O	O
 Caliegawee	O	O	O
 ,	O	O	O
-onderhorig	I-event	O	O
+onderhorig	O	O	O
 plaetsje	O	O	O
 van	O	O	O
 samarangh	O	O	O
-seggen	O	O	O
+seggen	I-event	O	O
 dat	O	O	O
 sij	O	O	O
 nu	O	O	O
@@ -99,7 +99,7 @@ een	O	O	O
 Jnlands	O	O	O
 vaertuijg	O	O	O
 als	O	O	O
-passagiers	I-event	O	I-event
+passagiers	O	O	I-event
 vertrocken	I-event	I-event	I-event
 zijn	O	O	O
 ,	O	O	O
@@ -109,10 +109,10 @@ Bantam	O	O	O
 om	O	O	O
 aldaar	O	O	O
 haar	O	O	O
-Fortuijn	O	O	O
+Fortuijn	I-event	O	O
 ,	O	O	O
 en	O	O	O
-onderhoud	O	O	O
+onderhoud	I-event	O	O
 te	O	O	O
 soeken	I-event	O	O
 ,	O	O	O
@@ -131,8 +131,8 @@ komende	I-event	I-event	I-event
 ,	O	O	O
 sig	O	O	O
 begeven	I-event	O	O
-hebben	I-event	O	O
-in	O	I-event	O
+hebben	O	O	O
+in	I-event	I-event	O
 dienst	I-event	I-event	O
 van	O	O	O
 eenen	O	O	O
@@ -170,7 +170,7 @@ priackaes	O	O	O
 aangenomen	I-event	I-event	O
 ,	O	O	O
 en	O	O	O
-g'emploijeert	I-event	I-event	O
+g'emploijeert	O	I-event	O
 zijn	O	O	O
 ;	O	O	O
 tot	O	O	O
@@ -201,7 +201,7 @@ tot	O	O	O
 stuijvs	O	O	O
 daags	O	O	O
 ,	O	O	O
-gevende	O	I-event	I-event
+gevende	I-event	I-event	I-event
 het	O	O	O
 zelve	O	O	O
 gestadig	O	O	O
@@ -305,10 +305,10 @@ voor	O	O	O
 de	O	O	O
 Eerste	O	O	O
 mael	O	O	O
-aansprack	O	O	O
+aansprack	I-event	O	O
 ,	O	O	O
 en	O	O	O
-versogt	O	I-event	O
+versogt	I-event	I-event	O
 om	O	O	O
 met	O	O	O
 hem	O	O	O
@@ -318,7 +318,7 @@ mede	I-event	O	O
 gaan	I-event	I-event	O
 tot	O	O	O
 het	O	O	O
-doen	O	O	O
+doen	I-event	O	O
 ,	O	O	O
 en	O	O	O
 drijven	I-event	O	O
@@ -343,7 +343,7 @@ en	O	O	O
 met	O	O	O
 hem	O	O	O
 mede	O	O	O
-overland	I-event	O	O
+overland	O	O	O
 gereijst	I-event	I-event	O
 zijn	O	O	O
 ,	O	O	O
@@ -415,7 +415,7 @@ en	O	O	O
 zij	O	O	O
 vervolgens	O	O	O
 opgevat	I-event	I-event	O
-gebonden	O	I-event	O
+gebonden	I-event	I-event	O
 en	O	O	O
 soo	O	O	O
 weg	I-event	I-event	O
@@ -439,7 +439,7 @@ Kiaij	O	O	O
 maas	O	O	O
 onder	O	O	O
 het	O	O	O
-seggen	O	O	O
+seggen	I-event	O	O
 dat	O	O	O
 hij	O	O	O
 haar	O	O	O
@@ -476,7 +476,7 @@ sonder	O	O	O
 datse	O	O	O
 hets	O	O	O
 anders	O	O	O
-kregen	I-event	I-event	O
+kregen	O	I-event	O
 dan	O	O	O
 zout	O	O	O
 ,	O	O	O
@@ -549,7 +549,7 @@ geen	O	O	O
 genoegsame	O	O	O
 lighaams	O	O	O
 onderhoud	O	O	O
-kregen	I-event	I-event	O
+kregen	O	I-event	O
 ,	O	O	O
 op	O	O	O
 't	O	O	O
