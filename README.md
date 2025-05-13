@@ -2,7 +2,8 @@
 Contains parts of nlp-binary-event-detection to evaluate different pre-trained GloBERTise models
 
 ## Model mapping
-Models are referred to differently in this code than on Huggingface
+Models are referred to differently in this code than on Huggingface.
+Models were renamed on Huggingface to give the best performing model the most approachable name.
 
 | Huggingface          | Code               | 
 |----------------------|--------------------|
