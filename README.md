@@ -18,3 +18,8 @@ The code that was used to finetune the models is in [this repo](https://github.c
 This repo contains all predictions that were made with the finetuned models and code to analyse them.
 For more info on different datasplits and different seeds, see the readme of the beforementioned repo. 
 
+Overview of scores on binary event detection
+
+
+
+<img width="1044" alt="Screenshot 2025-06-07 at 10 18 01" src="https://github.com/user-attachments/assets/bd5bf09e-7209-457f-994f-959b03e4adb2" />
